@@ -1,11 +1,17 @@
 import clsx from "clsx";
 
-const Section = ({ children, className = "", hasArrow = false }) => {
+const Section = ({
+  children,
+  className = "",
+  hasArrow = false,
+  noPaddingTop = false,
+}) => {
   const Content = () => (
     <div
       className={clsx(
-        "w-full",
-        hasArrow ? "hasArrow pb-5 pt-6" : "py-5",
+        "w-full pb-5",
+        hasArrow && "hasArrowpt-6",
+        !hasArrow && noPaddingTop ? "pt-0": "pt-5",
         className
       )}
     >
