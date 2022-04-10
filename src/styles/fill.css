@@ -1,0 +1,14 @@
+.fill-yellow,
+.fill-yellow > path {
+  fill: theme("colors.yellow");
+}
+
+.fill-purple,
+.fill-purple > path {
+  fill: theme("colors.purple");
+}
+
+.fill-white,
+.fill-white > path {
+  fill: theme("colors.white");
+}
