@@ -7,6 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    colors: {
+      transparent: "transparent",
+      current: "currentColor",
+      black: "#000",
+      white: "#FFF",
+      purple: "#811C62",
+      yellow: "#FDD816",
+    },
     fontFamily: {
       sans: ["Suisse Intl", ...defaultTheme.fontFamily.sans],
     },
