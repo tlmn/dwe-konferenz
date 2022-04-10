@@ -1,9 +1,13 @@
 import Section from "@/components/molecules/section";
+import Title from "@/components/atoms/title";
 
 const Register = () => (
-  <Section className="bg-purple text-yellow">
-    <div className="flex-1 flex items-center justify-center">
-      <h1>Hier kommt der Claim rein</h1>
+  <Section className="bg-purple text-yellow" hasArrow>
+    <div className="flex-1 flex flex-col items-center justify-center">
+      <Title className="bg-yellow text-purple">Ich will dabei sein</Title>
+      <a href="" target="_blank" className="button bg-yellow text-purple">
+        Jetzt anmelden!
+      </a>
     </div>
   </Section>
 );
