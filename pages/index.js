@@ -1,7 +1,17 @@
+import Landing from "@/sections/0-landing";
+import Register from "@/sections/1-register";
+import About from "@/sections/2-about";
+import Programme from "@/sections/3-programme";
+import Footer from "@/sections/4-footer";
+
 const HomePage = () => (
-  <h1 className="text-3xl font-bold underline">
-    Deutsche Wohnen und Co. Konferenz
-  </h1>
+  <>
+    <Landing />
+    <Register />
+    <About />
+    <Programme />
+    <Footer />
+  </>
 );
 
 export default HomePage;
