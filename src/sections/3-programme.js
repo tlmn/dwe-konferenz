@@ -59,6 +59,9 @@ const Programme = () => (
         Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
       </ProgrammeItem>
     </ProgrammeDay>
+    <a href="" target="_blank" className="button bg-yellow text-purple mx-auto">
+      Jetzt anmelden!
+    </a>
   </Section>
 );
 export default Programme;

@@ -4,9 +4,18 @@ import Title from "@/components/atoms/title";
 import ReadMore from "@/components/molecules/readMore";
 import Section from "@/components/molecules/section";
 import Body from "@/components/atoms/body";
+import ImageUnterschriften from "@/public/images/unterschriften.jpg";
+import ImageDemo from "@/public/images/demo.jpg";
+import Image from "next/image";
 
 const Register = () => (
-  <Section className="bg-yellow text-purple">
+  <Section className="bg-yellow text-purple" noPaddingTop>
+    <div className="mb-5">
+      <Image
+        src={ImageUnterschriften}
+        alt="Zahl der Unterschriften für den Volksentscheid auf Plakaten"
+      />
+    </div>
     <Title className="text-yellow bg-purple" isBig>
       Zeit zu reden
     </Title>
@@ -28,6 +37,13 @@ const Register = () => (
     </div>
 
     <ReadMore className="text-yellow bg-purple">
+      <div className="mb-5">
+        <Image
+          src={ImageDemo}
+          alt="Demonstrantinnen für Deutsche Wohnen und Co. enteignen"
+        />
+      </div>
+
       <div className="dwe-grid">
         <Body>
           Das Programm setzt sich aus Abendpodien, Skill-Sharing- Workshops,
