@@ -1,0 +1,7 @@
+.button {
+  @apply inline transition-all duration-200 ease-in-out rounded py-1 px-2 my-2 w-fit;
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
