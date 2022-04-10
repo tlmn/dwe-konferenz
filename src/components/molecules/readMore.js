@@ -8,7 +8,7 @@ const ReadMore = ({ children, className }) => {
       <div className={clsx(!isOpen ? "hidden" : "block")}>{children}</div>
       <button
         onClick={() => setIsOpen((prev) => !prev)}
-        className={clsx("button", className)}
+        className={clsx("button mx-auto", className)}
       >
         {!isOpen ? `Mehr lesen` : `Weniger anzeigen`}
       </button>
