@@ -1,5 +1,5 @@
 .button {
-  @apply inline uppercase transition-all duration-200 ease-in-out rounded py-1 px-2 my-2 w-fit;
+  @apply inline uppercase font-bold transition-all duration-200 ease-in-out rounded py-1 px-2 my-2 w-fit;
 }
 
 .button:hover {
