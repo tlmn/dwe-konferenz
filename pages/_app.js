@@ -5,7 +5,7 @@ const App = ({ Component, pageProps }) => (
   <>
     <Head>
       <title>Konferenz Deutsche Wohnen &amp; Co. enteignen</title>
-      <link rel="icon" href="/favicon.png" />
+      <link rel="icon" href="/dwe-icon.png" />
       <meta charSet="UTF-8" />
       <meta name="description" content="" />
       <meta
