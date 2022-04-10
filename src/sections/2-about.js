@@ -14,6 +14,7 @@ const Register = () => (
       <Image
         src={ImageUnterschriften}
         alt="Zahl der Unterschriften für den Volksentscheid auf Plakaten"
+        placeholder="blur"
       />
     </div>
     <Title className="text-yellow bg-purple" isBig>
@@ -41,6 +42,7 @@ const Register = () => (
         <Image
           src={ImageDemo}
           alt="Demonstrantinnen für Deutsche Wohnen und Co. enteignen"
+          placeholder="blur"
         />
       </div>
 
