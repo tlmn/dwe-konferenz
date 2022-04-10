@@ -1,22 +1,21 @@
-import clsx from "clsx"
-import React, { useState } from "react"
+import clsx from "clsx";
+import React, { useState } from "react";
 
 const ProgrammeItem = ({ title, time, children, category }) => {
-  const [isOpen, setIsOpen] = useState(false)
+  const [isOpen, setIsOpen] = useState(false);
   return (
     <div>
       <span>{time}</span>
-      <h3
-        className="font-bold text-2xl"
-        role="button"
-        onClick={() => setIsOpen(!isOpen)}
-      >
+      <h3 className="font-bold text-2xl" onClick={() => setIsOpen(!isOpen)}>
         {title}
       </h3>
       <span>{category}</span>
-      <p dangerouslySetInnerHTML={{ __html: children }} className={clsx(!isOpen && "hidden", "md:block")} />
+      <p
+        dangerouslySetInnerHTML={{ __html: children }}
+        className={clsx("text-lg", !isOpen && "hidden", "md:block")}
+      />
     </div>
-  )
-}
+  );
+};
 
-export default ProgrammeItem
+export default ProgrammeItem;
