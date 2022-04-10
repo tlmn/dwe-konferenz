@@ -14,8 +14,45 @@ const Programme = () => (
         Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
         Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
       </ProgrammeItem>
+      <ProgrammeItem title="Willkommen" time="Zeit">
+        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
+        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
+        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      </ProgrammeItem>
+      <ProgrammeItem title="Willkommen" time="Zeit">
+        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
+        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
+        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      </ProgrammeItem>
     </ProgrammeDay>
     <ProgrammeDay day="Samstag, 28. Mai">
+      <ProgrammeItem title="Willkommen" time="Zeit">
+        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
+        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
+        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      </ProgrammeItem>
+      <ProgrammeItem title="Willkommen" time="Zeit">
+        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
+        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
+        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      </ProgrammeItem>
+      <ProgrammeItem title="Willkommen" time="Zeit">
+        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
+        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
+        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      </ProgrammeItem>
+    </ProgrammeDay>
+    <ProgrammeDay day="Sonntag, 29. Mai">
+      <ProgrammeItem title="Willkommen" time="Zeit">
+        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
+        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
+        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      </ProgrammeItem>
+      <ProgrammeItem title="Willkommen" time="Zeit">
+        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
+        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
+        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      </ProgrammeItem>
       <ProgrammeItem title="Willkommen" time="Zeit">
         Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
         Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
