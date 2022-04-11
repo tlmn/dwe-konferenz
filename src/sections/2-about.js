@@ -15,6 +15,7 @@ const Register = () => (
         src={ImageUnterschriften}
         alt="Zahl der Unterschriften für den Volksentscheid auf Plakaten"
         placeholder="blur"
+        priority={true}
       />
     </div>
     <Section className="bg-yellow text-purple">
