@@ -6,7 +6,7 @@ const Title = ({ children, className = "", isBig = false }) => (
     <h3
       className={clsx(
         "py-1 px-2 mx-auto font-bold inline leading-none",
-        isBig ? "text-5xl md:text-6xl" : "text-3xl md:text-4xl",
+        isBig ? "text-4xl md:text-6xl" : "text-3xl md:text-4xl",
         className
       )}
       style={{ WebkitBoxDecorationBreak: "clone" }}
