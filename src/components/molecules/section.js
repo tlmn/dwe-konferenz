@@ -11,7 +11,7 @@ const Section = ({
       className={clsx(
         "w-full pb-5",
         hasArrow && "hasArrowpt-6",
-        !hasArrow && noPaddingTop ? "pt-0": "pt-5",
+        !hasArrow && noPaddingTop ? "pt-0" : "pt-5",
         className
       )}
     >
