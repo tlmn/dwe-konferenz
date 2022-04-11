@@ -8,7 +8,7 @@ import ImageUnterschriften from "@/public/images/unterschriften.jpg";
 import ImageDemo from "@/public/images/demo.jpg";
 import Image from "next/image";
 
-const Register = () => (
+const About = () => (
   <>
     <div className="-mb-2">
       <Image
@@ -83,4 +83,4 @@ const Register = () => (
     </Section>
   </>
 );
-export default Register;
+export default About;
