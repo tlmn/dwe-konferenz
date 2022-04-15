@@ -6,7 +6,7 @@ const ProgrammeItem = ({ title, time, children, category }) => {
   return (
     <div>
       <span>{time}</span>
-      <h3 className="font-bold text-2xl" onClick={() => setIsOpen(!isOpen)}>
+      <h3 className="font-bold text-2xl underline" onClick={() => setIsOpen(!isOpen)}>
         {title}
       </h3>
       <span>{category}</span>
