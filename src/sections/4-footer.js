@@ -1,10 +1,10 @@
 import LogoWordMark from "@/assets/icons/dwe/logoWordMark";
-import InstagramIcon from "@/assets/icons/social/instagram";
 import Section from "@/components/molecules/section";
+import Link from "next/link";
 
 const Footer = () => (
   <Section className="bg-yellow text-purple">
-    <ul className="flex justify-around flex-wrap">
+    <ul className="flex justify-around flex-wrap gap-4">
       <li>
         <a href="" className="button bg-purple text-yellow my-1 block">
           Spenden
@@ -28,14 +28,18 @@ const Footer = () => (
     </ul>
     <ul className="mt-6 flex justify-around flex-wrap">
       <li>
-        <a href="">
-          <LogoWordMark />
-        </a>
+        <Link href="">
+          <a className="inline-block origin-center hover:scale-110 transition-all duration-200 ease-in-out">
+            <LogoWordMark />
+          </a>
+        </Link>
       </li>
       <li>
-        <a href="">
-          <LogoWordMark />
-        </a>
+        <Link href="">
+          <a className="inline-block origin-center hover:scale-110 transition-all duration-200 ease-in-out">
+            <LogoWordMark />
+          </a>
+        </Link>
       </li>
     </ul>
   </Section>
