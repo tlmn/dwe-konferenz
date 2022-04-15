@@ -1,3 +1,4 @@
+import Button from "@/components/atoms/button";
 import ProgrammeItem from "@/components/atoms/programmeItem";
 import Title from "@/components/atoms/title";
 import ProgrammeDay from "@/components/molecules/programmeDay";
@@ -62,6 +63,9 @@ const Programme = () => (
     <a href="" target="_blank" className="button bg-yellow text-purple mx-auto">
       Jetzt anmelden!
     </a>
+    <Button href="/programm.pdf" className="bg-yellow text-purple button mx-auto">
+      Programm als PDF
+    </Button>
   </Section>
 );
 export default Programme;
