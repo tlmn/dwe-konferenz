@@ -2,7 +2,6 @@ import LogoWordMark from "@/assets/icons/dwe/logoWordMark";
 import LandingHero from "@/assets/landingHero";
 import Button from "@/components/atoms/button";
 import Section from "@/components/molecules/section";
-import Link from "next/link";
 
 const Landing = () => (
   <Section className="bg-yellow text-purple h-screen">
