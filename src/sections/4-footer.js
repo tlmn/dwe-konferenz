@@ -31,21 +31,21 @@ const Footer = () => (
     </ul>
     <ul className="mt-6 flex justify-around flex-wrap">
       <li>
-        <Link href="">
+        <Link href="https://asta.tu-berlin.de/">
           <a className="inline-block origin-center hover:scale-110 transition-all duration-200 ease-in-out">
             <Image src={logoAsta} alt="Logo des Asta der TU Berlin" quality={100} />
           </a>
         </Link>
       </li>
       <li>
-        <Link href="">
+        <Link href="https://www.dwenteignen.de">
           <a className="inline-block origin-center hover:scale-110 transition-all duration-200 ease-in-out">
             <LogoWordMark />
           </a>
         </Link>
       </li>
       <li>
-        <Link href="">
+        <Link href="https://www.rosalux.de/">
           <a className="inline-block origin-center hover:scale-110 transition-all duration-200 ease-in-out">
             <LogoRLS />
           </a>
