@@ -4,52 +4,51 @@ import Section from "@/components/molecules/section";
 import Image from "next/image";
 import Link from "next/link";
 import logoAsta from "@/assets/icons/logo-asta.png";
+import Button from "@/components/atoms/button";
 
 const Footer = () => (
   <Section className="bg-yellow text-purple">
     <ul className="flex justify-around flex-wrap gap-x-4">
       <li>
-        <a href="" className="button bg-purple text-yellow block">
+        <Button href="" className="bg-purple text-yellow block px-2 py-1 rounded-lg">
           Spenden
-        </a>
+        </Button>
       </li>
       <li>
-        <a href="" className="button bg-purple text-yellow block">
+        <Button href="" className="bg-purple text-yellow block px-2 py-1 rounded-lg">
           Mitmachen
-        </a>
+        </Button>
       </li>
       <li>
-        <a href="" className="button bg-purple text-yellow block">
+        <Button href="" className="bg-purple text-yellow block px-2 py-1 rounded-lg">
           Impressum
-        </a>
+        </Button>
       </li>
       <li>
-        <a href="" className="button bg-purple text-yellow block">
+        <Button href="" className="bg-purple text-yellow block px-2 py-1 rounded-lg">
           Kontakt
-        </a>
+        </Button>
       </li>
     </ul>
     <ul className="mt-6 flex justify-around flex-wrap">
       <li>
-        <Link href="https://asta.tu-berlin.de/">
-          <a className="inline-block origin-center hover:scale-110 transition-all duration-200 ease-in-out">
-            <Image src={logoAsta} alt="Logo des Asta der TU Berlin" quality={100} />
-          </a>
-        </Link>
+        <Button href="https://asta.tu-berlin.de/">
+          <Image
+            src={logoAsta}
+            alt="Logo des Asta der TU Berlin"
+            quality={100}
+          />
+        </Button>
       </li>
       <li>
-        <Link href="https://www.dwenteignen.de">
-          <a className="inline-block origin-center hover:scale-110 transition-all duration-200 ease-in-out">
-            <LogoWordMark />
-          </a>
-        </Link>
+        <Button href="https://www.dwenteignen.de">
+          <LogoWordMark />
+        </Button>
       </li>
       <li>
-        <Link href="https://www.rosalux.de/">
-          <a className="inline-block origin-center hover:scale-110 transition-all duration-200 ease-in-out">
-            <LogoRLS />
-          </a>
-        </Link>
+        <Button href="https://www.rosalux.de/">
+          <LogoRLS />
+        </Button>
       </li>
     </ul>
   </Section>
