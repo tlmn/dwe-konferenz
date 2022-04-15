@@ -8,7 +8,7 @@ import Button from "@/components/atoms/button";
 
 const Footer = () => (
   <Section className="bg-yellow text-purple">
-    <ul className="flex justify-around flex-wrap gap-x-4">
+    <ul className="flex justify-center flex-wrap gap-x-4">
       <li>
         <Button href="" className="bg-purple text-yellow block px-2 py-1 rounded-lg">
           Spenden
@@ -30,7 +30,7 @@ const Footer = () => (
         </Button>
       </li>
     </ul>
-    <ul className="mt-6 flex justify-around flex-wrap">
+    <ul className="mt-6 flex justify-center gap-x-4 flex-wrap">
       <li>
         <Button href="https://asta.tu-berlin.de/">
           <Image
