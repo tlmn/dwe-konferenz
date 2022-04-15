@@ -37,6 +37,8 @@ const Footer = () => (
             src={logoAsta}
             alt="Logo des Asta der TU Berlin"
             quality={100}
+            height={70}
+            width={81}
           />
         </Button>
       </li>
