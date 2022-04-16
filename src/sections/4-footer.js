@@ -2,7 +2,6 @@ import LogoWordMark from "@/assets/icons/dwe/logoWordMark";
 import LogoRLS from "@/assets/icons/logo-rls";
 import Section from "@/components/molecules/section";
 import Image from "next/image";
-import Link from "next/link";
 import logoAsta from "@/assets/icons/logo-asta.png";
 import Button from "@/components/atoms/button";
 
