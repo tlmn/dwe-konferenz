@@ -30,7 +30,7 @@ const Footer = () => (
         </Button>
       </li>
     </ul>
-    <ul className="mt-6 flex justify-center gap-x-4 flex-wrap">
+    <ul className="mt-6 flex justify-center items-center gap-x-4 flex-wrap">
       <li>
         <Button href="https://asta.tu-berlin.de/">
           <Image
