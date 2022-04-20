@@ -23,6 +23,12 @@ const Programme = () => (
        Wie Organisierende Mietrechts- Sozial-Beratungen und Nachbarschaftskampagnen zu erfolgreichen Mieter*Innenkämpfen um Enteignung & Co beitragen können 
        Ref: Tashy Endres und Georgios Thodos (beide: AG Starthilfe)
       </ProgrammeItem>
+    <ProgrammeItem title="Auftaktveranstaltung: Der Kampf um Vergesellschaftung im internationalen Kontext" time="19:00 - 21:00">
+       mit Balakrishnan Rajagopal (Video), danach Gespräch mit Andrej Holm, jemanden von DWE und evtl. weiterem internationalen Gast.
+       moderiert von Nina Scholz
+       Livestream
+
+      </ProgrammeItem>
     </ProgrammeDay>
     <ProgrammeDay day="Samstag, 28. Mai">
       <ProgrammeItem title="Willkommen" time="Zeit">
