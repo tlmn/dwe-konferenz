@@ -10,12 +10,10 @@ const Programme = () => (
       Programm
     </Title>
     <ProgrammeDay day="Freitag, 27. Mai">
-      <ProgrammeItem title="Willkommen" time="Zeit">
-        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
-        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
-        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      <ProgrammeItem title="Was ist: Finanzialisierung des Wohnens? (Crashkurse 1)" time="17:30 - 18:30">
+        Ref: Philipp Metzger
       </ProgrammeItem>
-      <ProgrammeItem title="Willkommen" time="Zeit">
+      <ProgrammeItem title="Wohnungsfrage und Wohnungspolitik" time="17:30 - 18:30">
         Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
         Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
         Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
