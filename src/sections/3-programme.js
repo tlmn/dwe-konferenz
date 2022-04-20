@@ -19,6 +19,10 @@ const Programme = () => (
       <ProgrammeItem title="Art. 15 für Nicht-Jurist:innen (Crashkurse 3)" time="17:30 - 18:30">
         Ref: Franziska Drohsel
       </ProgrammeItem>
+    <ProgrammeItem title="Vom Einzelfall zur organisierten Nachbarschaft (Crashkurse 4)" time="17:30 - 18:30">
+       Wie Organisierende Mietrechts- Sozial-Beratungen und Nachbarschaftskampagnen zu erfolgreichen Mieter*Innenkämpfen um Enteignung & Co beitragen können 
+       Ref: Tashy Endres und Georgios Thodos (beide: AG Starthilfe)
+      </ProgrammeItem>
     </ProgrammeDay>
     <ProgrammeDay day="Samstag, 28. Mai">
       <ProgrammeItem title="Willkommen" time="Zeit">
