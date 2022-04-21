@@ -58,9 +58,16 @@ const About = () => (
           </Body>
 
           <DWECarousel>
-            <CarouselItem>Frage 1</CarouselItem>
-            <CarouselItem>Frage 2</CarouselItem>
-            <CarouselItem>Frage 3</CarouselItem>
+            <CarouselItem>Ist Vergesellschaftung eine Maßnahme zur Lösung ganz unterschiedlicher Krisen?</CarouselItem>
+            <CarouselItem>Wie haben Mieter*innenkämpfe die Enteignungsforderung in dieser Breite überhaupt erst möglich gemacht - und wie werden sie zur Durchsetzung beitragen?</CarouselItem>
+            <CarouselItem>Oligarchen, Steuerhinterzieher*innen und Kriminelle - wie viel schmutziges Geld steckt im Immobilienmarkt?</CarouselItem>
+            <CarouselItem>Anstalt öffentlichen Rechts - unsere Antwort auf Profitwahn</CarouselItem>
+            <CarouselItem>Was kostet eigentlich die Enteignung von Deutsche Wohnen und Vonovia?</CarouselItem>
+            <CarouselItem>Was tun gegen Bodenspekulation?</CarouselItem>
+            <CarouselItem>Mietendeckel, Mietenstopp und die Wege dorthin</CarouselItem>
+            <CarouselItem>Wohnen und Klimagerechtigkeit</CarouselItem>
+            <CarouselItem>Das Geschäftsmodell Vonvovia</CarouselItem>
+            <CarouselItem>Was ist Finanzialisierung des Wohnens?</CarouselItem>
           </DWECarousel>
 
           <Body>
