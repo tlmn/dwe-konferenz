@@ -4,15 +4,15 @@ import Title from "@/components/atoms/title";
 import ReadMore from "@/components/molecules/readMore";
 import Section from "@/components/molecules/section";
 import Body from "@/components/atoms/body";
-import ImageUnterschriften from "@/public/images/unterschriften.jpg";
-import ImageDemo from "@/public/images/demo.jpg";
+import ImageUnterschriftenSammeln from "@/public/images/unterschriftenSammeln.jpg";
+import ImageZahlen from "@/public/images/zahlen.jpg";
 import Image from "next/image";
 
 const About = () => (
   <>
     <div className="-mb-2">
       <Image
-        src={ImageUnterschriften}
+        src={ImageZahlen}
         alt="Zahl der Unterschriften für den Volksentscheid auf Plakaten"
         placeholder="blur"
         priority={true}
@@ -42,7 +42,7 @@ const About = () => (
       <ReadMore className="text-yellow bg-purple">
         <div className="mb-5">
           <Image
-            src={ImageDemo}
+            src={ImageUnterschriftenSammeln}
             alt="Demonstrantinnen für Deutsche Wohnen und Co. enteignen"
             placeholder="blur"
           />
