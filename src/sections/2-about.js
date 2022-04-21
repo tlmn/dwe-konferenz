@@ -16,6 +16,7 @@ const About = () => (
         alt="Zahl der Unterschriften für den Volksentscheid auf Plakaten"
         placeholder="blur"
         priority={true}
+        layout="responsive"
       />
     </div>
     <Section className="bg-yellow text-purple">
