@@ -3,13 +3,16 @@ import ProgrammeItem from "@/components/atoms/programmeItem";
 import Title from "@/components/atoms/title";
 import ProgrammeDay from "@/components/molecules/programmeDay";
 import Section from "@/components/molecules/section";
+import SessionTitle from "@/components/atoms/sessionTitle";
 
 const Programme = () => (
   <Section className="bg-purple text-yellow" hasArrow>
     <Title className="bg-yellow text-purple" isBig>
       Programm
     </Title>
+
     <ProgrammeDay day="Freitag, 27. Mai">
+      <SessionTitle className="text-yellow">Crashkurse</SessionTitle>
       <ProgrammeItem
         title="Was ist: Finanzialisierung des Wohnens? (Crashkurse 1)"
         time="17:30 - 18:30"
@@ -34,8 +37,8 @@ const Programme = () => (
       >
         Wie Organisierende Mietrechts- Sozial-Beratungen und
         Nachbarschaftskampagnen zu erfolgreichen Mieter*Innenkämpfen um
-        Enteignung &amp; Co beitragen können Ref: Tashy Endres und Georgios Thodos
-        (beide: AG Starthilfe)
+        Enteignung &amp; Co beitragen können Ref: Tashy Endres und Georgios
+        Thodos (beide: AG Starthilfe)
       </ProgrammeItem>
       <ProgrammeItem
         title="Auftaktveranstaltung: Der Kampf um Vergesellschaftung im internationalen Kontext"
