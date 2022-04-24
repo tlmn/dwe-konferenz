@@ -9,15 +9,15 @@ import ImageLanding from "@/public/images/landing.jpg";
 const Landing = () => (
   <>
     <Section className="bg-yellow text-purple h-screen relative">
-      <div className="relative z-10">
+      <div className="relative flex flex-col z-10 max-h-full">
         <div>
           <Button href="https://www.dwenteignen.de">
             <LogoWordMark />
           </Button>
         </div>
-        <div className="flex items-center justify-center relative">
-          {/* <LandingHeroDesktop className="h-full hidden md:block" />
-          <LandingHeroMobile className="h-full block md:hidden" /> */}
+        <div className="flex md:flex-1 md:min-h-0 items-center justify-center py-3 max-h-full">
+          <LandingHeroDesktop className="h-full hidden md:block object-contain" />
+          <LandingHeroMobile className="h-full block md:hidden object-contain" />
         </div>
       </div>
     </Section>
