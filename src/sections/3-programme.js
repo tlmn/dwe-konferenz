@@ -76,14 +76,14 @@ const Programme = () => (
       time="11-19 Uhr"
   >
       Christoph Trautvetter (Netzwerk Steuergerechtigkeit, externer Projektleiter „Wem gehört die Stadt?“), Gabriela
-Keller (Correctiv), Moderation: Katalin Gennburg<br>
+Keller (Correctiv), Moderation: Katalin Gennburg
 Berlin ist aus Sicht internationaler Kapitalströme zu einem der Zielorte schlechthin avanciert:
 die gebaute Umwelt der Stadt verspricht hohe Renditen und Möglichkeiten zur Spekulation.
 Doch woher kommt das Kapital? Aufwendig verschachtelte Firmen- und
 Beteiligungskonstrukte, die bis in das europäische wie außereuropäische Ausland reichen,
 verschleiern den Ursprung der Kapitalströme und verdecken oftmals, wer die tatsächlich
 wirtschaftlich Berechtigten hinter einer Immobilie sind. Sie ermöglichen so Geldwäsche und
-Steuerhinterziehung.<br>
+Steuerhinterziehung.
 Die Veranstaltung geht der Frage nach, welche Methoden der Verschleierung zum Einsatz
 kommen – und welche gesetzgeberischen Schlupflöcher dies überhaupt erst ermöglichen.
 Aufgezeigt werden sollen diese Methoden anhand konkreter Beispiele aus der jüngeren
@@ -101,7 +101,7 @@ Aber was genau bedeutet das? Wie muss die geplante Anstalt öffentlichen Rechts 
 Die dabei relevant werdenden Themen spielen in der Mieter:innenbewegung Berlins schon lange eine Rolle: 
 Zu Fragen der Mieter:innenmitbestimmung und zur transparenten und diskriminierungsarmen Wohnungsvergabe z.B. gibt es bereits differenzierte Diskussionen und praktische Erfahrungen. 
 Beim geplanten Workshop wollen wir unsere bisherigen Ideen vorstellen und am Beispiel dieser Aspekte mit Akteur:innen der Mietenbewegung ins Gespräch darüber kommen, 
-  wie die neu zu gründende Anstalt öffentlichen Rechts konkret aussehen kann. <br>
+  wie die neu zu gründende Anstalt öffentlichen Rechts konkret aussehen kann.
 Referent*innen: Vergesellschaftungs-AG von DWE
       </ProgrammeItem>
 
@@ -112,7 +112,7 @@ Referent*innen: Vergesellschaftungs-AG von DWE
        Ohne die Mieter*innen-Proteste der Deutsche Wohnen Mieter*innen gegen Mieterhöhungen und Verdrängungen wäre die Enteignungskampagne in Berlin nie möglich gewesen. 
        Die Kampagne selbst weist über die Kämpfe hinaus. Während des Volksentscheids haben sich Kampagne und konkrete Kämpfe immer wieder gegenseitig beflügelt. 
        Ohne Organisierung gibt es also keine Enteignung - und trotzdem bleiben die Aktivist*innen in der Kampagne oft unter sich. 
-       Welche Lösungen gibt es? Was können wir aus der Vergangenheit für die Zukunft lernen?<br>
+       Welche Lösungen gibt es? Was können wir aus der Vergangenheit für die Zukunft lernen?
 Hannes Strobel und Nina Scholz (AG Starthilfe)
       </ProgrammeItem>
 
@@ -123,7 +123,7 @@ Hannes Strobel und Nina Scholz (AG Starthilfe)
     time="11-19 Uhr"
      >
         Zwischen Memes, TikToks und Insta-Stories. Wie läuft die Social Media Arbeit bei Deutsche Wohnen & Co enteignen? Wie entwickeln wir Posts? Wie gelingt ein erfolreiches Community Building und wie gehen wir mit Shitstorms um? Diese und viele weitere Fragen wollen wir zusammen mit euch in diesem Workshop beantworten.
-Wir stellen unsere Arbeitsweise vor, analysieren gemeinsam Posts, sprechen über praktische Tipps und politische Kommunikation in Sozialen Medien. Außerdem wird es praktische Übungen geben, bitte bringt daher wenn möglich einen Laptop mit. <br> 
+Wir stellen unsere Arbeitsweise vor, analysieren gemeinsam Posts, sprechen über praktische Tipps und politische Kommunikation in Sozialen Medien. Außerdem wird es praktische Übungen geben, bitte bringt daher wenn möglich einen Laptop mit.
         Referent*innen: Mareike & Marcel (Social Media AG DWE) 
       </ProgrammeItem>
 
