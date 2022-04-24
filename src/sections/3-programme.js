@@ -40,6 +40,8 @@ const Programme = () => (
         Enteignung &amp; Co beitragen können Ref: Tashy Endres und Georgios
         Thodos (beide: AG Starthilfe)
       </ProgrammeItem>
+
+      <SessionTitle className="text-yellow">Podiumsdiskussion</SessionTitle>
       <ProgrammeItem
         title="Auftaktveranstaltung: Der Kampf um Vergesellschaftung im internationalen Kontext"
         time="19:00 - 21:00"
