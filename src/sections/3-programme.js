@@ -265,23 +265,23 @@ Moderation: Sebastian Botzem (Genossenschafter*innen)
     </ProgrammeDay>
 
     <ProgrammeDay day="Sonntag, 29. Mai">
-      <ProgrammeItem title="#Titel" time="11-19 Uhr">
-        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
-        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
-        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      
+       <SessionTitle className="text-yellow">
+      Fortsetzung der Workshop-Phase
+      </SessionTitle>
+
+
+       <SessionTitle className="text-yellow">
+     	Abschlussveranstaltung:  Perspektiven
+      </SessionTitle>
+      
+      <ProgrammeItem
+        title="Abschluss-Podium Vorschlag: Wie weiter mit der Mietenbewegung – in Berlin und bundesweit?"
+        time="12:30-14 Uhr">
+        Moderiert von DWE, plus Hamburg enteignet, bundesweiite Enteignungs-Vernetzung, Kampagne Mietenstopp + 1-2 Joker (Eindrücke vom Kongress)
+Verabschiedung der Kongresserklärung
       </ProgrammeItem>
 
-      <ProgrammeItem title="Willkommen" time="11-19 Uhr">
-        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
-        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
-        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
-      </ProgrammeItem>
-
-      <ProgrammeItem title="Willkommen" time="11-19 Uhr">
-        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
-        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
-        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
-      </ProgrammeItem>
     </ProgrammeDay>
 
     <a href="" target="_blank" className="button bg-yellow text-purple mx-auto">
