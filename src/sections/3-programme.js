@@ -14,28 +14,28 @@ const Programme = () => (
     <ProgrammeDay day="Freitag, 27. Mai">
       <SessionTitle className="text-yellow">Crashkurse</SessionTitle>
       <ProgrammeItem
-        title="Was ist: Finanzialisierung des Wohnens? (Crashkurse 1)"
+        title="Was ist: Finanzialisierung des Wohnens?"
         time="17:30 - 18:30"
       >
         Ref: Philipp Metzger
       </ProgrammeItem>
 
       <ProgrammeItem
-        title="Wohnungsfrage und Wohnungspolitik (Crashkurse 2)"
+        title="Wohnungsfrage und Wohnungspolitik"
         time="17:30 - 18:30"
       >
         Ref: Andrej Holm
       </ProgrammeItem>
 
       <ProgrammeItem
-        title="Art. 15 für Nicht-Jurist:innen (Crashkurse 3)"
+        title="Art. 15 für Nicht-Jurist:innen"
         time="17:30 - 18:30"
       >
         Ref: Franziska Drohsel
       </ProgrammeItem>
 
       <ProgrammeItem
-        title="Vom Einzelfall zur organisierten Nachbarschaft (Crashkurse 4)"
+        title="Vom Einzelfall zur organisierten Nachbarschaft"
         time="17:30 - 18:30"
       >
         Wie Organisierende Mietrechts- Sozial-Beratungen und
@@ -175,6 +175,93 @@ const Programme = () => (
         Sprechen in der Öffentlichkeit: Wie Medien- und Pressearbeit bei DWE
         funktioniert und warum mit Kompliz*innen alles besser ist.
       </ProgrammeItem>
+
+  <SessionTitle className="text-yellow">
+        Themenstrang 3: Gemeinwirtschaftliche Alternativen für preiswertes und selbstverwaltetes Wohnen
+      </SessionTitle>
+
+      <ProgrammeItem
+        title="Aufwerten, Auspressen, Abschöpfen - Entstehung, Geschäftsmodelle und Widerstände gegen große Wohnungskonzerne wie Vonovia, LEG, Heimstaden und Co"
+        time="11-19 Uhr"
+      >
+        Private Wohnungsunternehmen sind relativ neu in der Riege der Großkonzerne.  Sie sind ein Produkt der Neoliberalisierung des Wohnens, das heißt: der Privatisierung öffentlicher Wohnungsbestände, der Deregulierung und der zunehmenden Finanzmarktorientierung der Wohnungswirtschaft. Aber was genau zeichnet die Wohnungskonzerne, jenseits ihrer Größe, gegenüber anderen privaten Vermieter:innen aus? Welche Geschäftsmodelle verfolgen sie? Wie erreichen sie ihre Rendite und wie finanzieren sie die hohen, alljährlichen Ausschüttungen an ihre Aktionär:innen? Wer profitiert dabei – und auf wessen Kosten? Wie können sich Mieter:innen dagegen wehren? Und was ist von den Versprechungen über freiwillige Begrenzungen von Mieterhöhungen oder der Präsentation von Vonovia & Co. als „verlässliche Partner:innen“ bei Neubau und einer klimaverträglichen Sanierung der Bestände zu halten?
+mit Knut Unger (MieterInnenverein Witten/Kritische ImmobilienaktionärInnen); Berliner Mieterverein (angefragt), Mieterinitiativen Stuttgart (angegefragt); Moderation: Philipp Möller (Redaktion MieterEcho, wissenschaftlicher Mitarbeiter Niklas Schenker, MdA)
+      </ProgrammeItem>
+
+  <ProgrammeItem
+        title="Rent Control! - Mietenstopp, Mietendeckel und der Weg dahin"
+        time="11-19 Uhr"
+      >
+        Der Berliner Mietendeckel war ein Hoffnungsschimmer. Er wurde bundesweit und international beachtet und zum Vorbild genommen. Aber er war auch Zielscheibe einer wahnwitzigen Gegenkampagne, an deren Spitze sich Union und FDP gesetzt haben, um ihn schließlich vor das Verfassungsgericht zu bringen. Am Ende ist der Berliner Vorstoß am Zuständigkeits-Klein-Klein gescheitert. Doch damit ist die Mietenfrage nicht erledigt. Denn es liegt ja auf der Hand: gegen die Mietpreisexplosion, die vor allem die Gewinne von Eigentümer:innen mehrt, hilft vor allem kurzfristig nur eins: Rent control, die gesetzliche Begrenzung der Mietpreise. Die Kampagne Mietenstopp, getragen von Initiativen, Mietervereinen, Gewerkschaften und Sozialverbänden, mobilisiert dafür ebenso wie unzählige Initiativen in den Städten, die auch 2022 wieder einen bundes- und europaweiten Housing Action Day organisiert haben. Doch nach fast 15 Jahren Kampf gegen steigende Mieten: Wo stehen wir? Und wie kommen wir weiter?
+u.a. mit Caren Lay (MdB LINKE); Benjamin Raabe (RAV AK Mietrecht); Monika Schmid-Balzert (Kampagne Mietenstopp/Landesgeschäftsführerin DMB Bayern); Moderation: Armin Kuhn (Rosa-Luxemburg-Stiftung)
+      </ProgrammeItem>
+
+  <ProgrammeItem
+        title="Die Bodenpreisrallye stoppen"
+        time="11-19 Uhr"
+      >
+       Noch stärker als die Mieten steigen seit Jahren und Jahrzehnten die Preise für den Boden, auf dem die Wohnungen stehen. Städtische Grundstücke sind - ebenso wie landwirtschaftliche Flächen - zu weltweit begehrten Anlage- und Spekulationsobjekten geworden, ganz besonders seit der weltweiten Finanzkrise 2008. Käufer:innen finden sich auch zu aberwitzigen Preisen, weil die ebenso verlässlich steigenden Mieten oder auch der Verkauf ein paar Jahre später sichere und hohe Renditen versprechen. So arbeitet der Boden als Umverteilungsmaschine, die den Eigentümer:innen auf Kosten der Mietenden leistungslose Gewinne verschafft. Nur wenn wir diese Maschine stoppen, sind leistbare Mieten, bezahlbarer Neubau und die Rückgewinnung demokratischer Kontrolle über die Art, wie sich die Städte entwickeln, überhaupt denkbar. Wie leistungslose Gewinne abgeschöpft und die Bodenpreisrallye gestoppt werden kann, soll in diesem Workshop diskutiert werden.
+u.a. mit Christoph Trautvetter (ext. Projektleiter „Wem gehört die Stadt“, RLS), moderiert von Stefan Thimmel (RLS)
+      </ProgrammeItem>
+
+  <ProgrammeItem
+        title="Demokratisierung des Wohnens - Wege zur Selbstbestimmung in unterschiedlichen Eigentumsverhältnissen"
+        time="11-19 Uhr"
+      >
+     Ziel dieses Workshops ist, die Frage der Selbstbestimmung als eine Triebkraft politischer Auseinandersetzungen zu thematisieren und Wege zu diskutieren, wie diese in den verschiedenen Wohnformen (Anstalt des öffentlichen Rechts, Genossenschaften, andere private Rechtsformen) erkämpft und umgesetzt werden kann. Hierfür wird es auch wichtig sein näher zu bestimmen, was eigentlich genau gefordert wird, wenn es um Selbstbestimmung und Demokratisierung geht.
+      </ProgrammeItem>
+
+ <ProgrammeItem
+        title="Wohnen jenseits des Markts – Herausforderungen für ein gemeinnütziges Wohnen"
+        time="11-19 Uhr"
+      >
+     Die derzeitige wohnungspolitische Notlage ist Ausweis des Marktversagens bei der Bereitstellung von günstigem Wohnraum. Neue Regeln und Instrumente sind nötig, um Wohnen wieder leistbar für alle zu machen. Gleichzeitig gilt es, Häuser klimaneutral umzubauen und die demokratische Beteiligung der Bewohnerschaft bei der Verwaltung und Bewirtschaftung einzuführen. Wie könnte eine Transformation der Wohnraumversorgung gelingen, welche Ziele sollen formuliert werden, welche Konflikte bestehen dabei?
+Im Workshop wollen wir anhand von unterschiedlichen Vorstellungen von Gemeinwohl / Gemeinnützigkeit / Gemeinwirtschaft über Lösungen der Wohnungskrise diskutieren. Wir besprechen Modelle und Ansätze, die dauerhaft ein Wohnen jenseits des Markts ermöglichen und einen Eindruck geben, wie Vergesellschaftung praktisch aussehen kann. Dabei sollen die Vor- und Nachteile verschiedener Ansätze vorgestellt und die Zielkonflikte benannt werden. Der Workshop sucht nach Möglichkeiten, soziale, ökologische und demokratische Bedürfnisse zusammenzubringen – und die praktisch umzusetzen.
+
+Inputs ok
+-sabine notz
+
+tbc
+- Christian Felber, Gemeinwohlökonomie
+- Sabine Horlitz (Mitautorin ‚Neue Wohnungsgemeinnützigkeit, RLS 2017‘ / Stadtbodenstiftung
+- Person von DWE (zu Gemeinwirtschaft)
+- Person von Immovilien / Montagsstiftung / NABU Bodenbesteuerung (Ulrich Kriese)
+Moderation: Sebastian Botzem (Genossenschafter*innen)
+
+      </ProgrammeItem>
+
+  <SessionTitle className="text-yellow">
+        Themenstrang 4: Bundesweite Vernetzung
+      </SessionTitle>
+
+      <ProgrammeItem
+        title="Vergesellschaftung - Social Media und soziale Bewegungen"
+        time="11-19 Uhr"
+      >
+        Zwischen Memes, TikToks und Insta-Stories. Wie läuft die Social Media
+        Arbeit bei Deutsche Wohnen &amp; Co enteignen? Wie entwickeln wir Posts?
+        Wie gelingt ein erfolreiches Community Building und wie gehen wir mit
+        Shitstorms um? Diese und viele weitere Fragen wollen wir zusammen mit
+        euch in diesem Workshop beantworten. Wir stellen unsere Arbeitsweise
+        vor, analysieren gemeinsam Posts, sprechen über praktische Tipps und
+        politische Kommunikation in Sozialen Medien. Außerdem wird es praktische
+        Übungen geben, bitte bringt daher wenn möglich einen Laptop mit.
+        Referent*innen: Mareike &amp; Marcel (Social Media AG DWE)
+      </ProgrammeItem>
+
+  <SessionTitle className="text-yellow">
+       Podiumsdiskussion: Vergesellschaftung
+      </SessionTitle>
+
+      <ProgrammeItem
+        title="Demonstrieren, deckeln, enteignen – den Wohnungsmarkt revolutionieren!?"
+        time="19-21 Uhr"
+      >
+       mit Lena Kreck (Senatorin Justiz, Antidiskriminierung, Vielfalt), Lisa Vollmer (Bauhaus-Uni Weimar), Lukas Siebenkotten (DMB), N.N. (Ko-Kreis DWE), moderiert von Armin Kuhn (RLS)
+      </ProgrammeItem>
+
+
+
     </ProgrammeDay>
 
     <ProgrammeDay day="Sonntag, 29. Mai">
