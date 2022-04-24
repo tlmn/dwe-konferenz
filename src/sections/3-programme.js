@@ -55,7 +55,13 @@ const Programme = () => (
       
       <SessionTitle className="text-yellow">Streitgespräch: Vergesellschaftung jetzt!</SessionTitle>
 
-      <ProgrammeItem title="Follow the money - Der deutsche Immobilienmarkt als Tummelplatz für Oligarchen, Kriminelle und Steuerhinterzieher" time="11-19 Uhr">
+      <ProgrammeItem title="Auftakt: Eröffnungsrede, Begrüßung, Keynote, /Gespräch?" time="10-11 Uhr">
+      Prof. Tim Wihl
+
+
+      <SessionTitle className="text-yellow">Themenstrang 1: Vergesellschaftung</SessionTitle>
+
+   <ProgrammeItem title="Follow the money - Der deutsche Immobilienmarkt als Tummelplatz für Oligarchen, Kriminelle und Steuerhinterzieher" time="11-19 Uhr">
         Christoph Trautvetter (Netzwerk Steuergerechtigkeit, externer Projektleiter „Wem gehört die Stadt?“), Gabriela
 Keller (Correctiv), Moderation: Katalin Gennburg<br>
  
@@ -73,20 +79,26 @@ Stadtgeschichte Berlins, wobei sich auch der Frage nach der Rolle russischer Oli
 dem Berliner Immobilienmarkt zugewandt werden soll.
 
 
-      <SessionTitle className="text-yellow">Themenstrang 1: Vergesellschaftung</SessionTitle>
+      </ProgrammeItem>
+      <ProgrammeItem title="Eine Anstalt öffentlichen Rechts - unsere Alternative zu privaten Immobilienkonzernen" time="11-19 Uhr">
+        Die Wohnungsbestände großer Immobilienkonzerne in Berlin zu vergesellschaften, d.h. in demokratisch verwaltetes Gemeineigentum zu überführen, ist das Ziel der Kampagne Deutsche Wohnen und Co enteignen. 
+Aber was genau bedeutet das? Wie muss die geplante Anstalt öffentlichen Rechts organisiert sein, um eine gemeinwohlorientierte, funktionierende und demokratische Verwaltung zu ermöglichen? 
+  Zu dieser Frage bereitet die Vergesellschaftungs-AG der Kampagne derzeit einen Vorschlag vor.
+Die dabei relevant werdenden Themen spielen in der Mieter:innenbewegung Berlins schon lange eine Rolle: 
+Zu Fragen der Mieter:innenmitbestimmung und zur transparenten und diskriminierungsarmen Wohnungsvergabe z.B. gibt es bereits differenzierte Diskussionen und praktische Erfahrungen. 
+Beim geplanten Workshop wollen wir unsere bisherigen Ideen vorstellen und am Beispiel dieser Aspekte mit Akteur:innen der Mietenbewegung ins Gespräch darüber kommen, 
+  wie die neu zu gründende Anstalt öffentlichen Rechts konkret aussehen kann. <br>
+Referent*innen: Vergesellschaftungs-AG von DWE
+      </ProgrammeItem>
 
+      <ProgrammeItem title="Vom Mieter*innen-Protest zur Enteignung? Über das komplizierte Verhältnis von Mieter*innen-Kämpfen und Enteigungs-Kampagne  " time="11-19 Uhr">
+       Ohne die Mieter*innen-Proteste der Deutsche Wohnen Mieter*innen gegen Mieterhöhungen und Verdrängungen wäre die Enteignungskampagne in Berlin nie möglich gewesen. 
+       Die Kampagne selbst weist über die Kämpfe hinaus. Während des Volksentscheids haben sich Kampagne und konkrete Kämpfe immer wieder gegenseitig beflügelt. 
+       Ohne Organisierung gibt es also keine Enteignung - und trotzdem bleiben die Aktivist*innen in der Kampagne oft unter sich. 
+       Welche Lösungen gibt es? Was können wir aus der Vergangenheit für die Zukunft lernen?<br>
+Hannes Strobel und Nina Scholz (AG Starthilfe)
+      </ProgrammeItem>
 
-      </ProgrammeItem>
-      <ProgrammeItem title="Willkommen" time="Zeit">
-        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
-        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
-        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
-      </ProgrammeItem>
-      <ProgrammeItem title="Willkommen" time="Zeit">
-        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
-        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
-        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
-      </ProgrammeItem>
     </ProgrammeDay>
     <ProgrammeDay day="Sonntag, 29. Mai">
       <ProgrammeItem title="Willkommen" time="Zeit">
