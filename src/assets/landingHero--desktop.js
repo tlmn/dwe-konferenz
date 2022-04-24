@@ -4,6 +4,8 @@ const LandingHeroDesktop = ({ className }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="none"
+    width="875"
+    height="719"
     viewBox="0 0 875 719"
     className={className}
   >
