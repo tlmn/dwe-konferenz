@@ -122,9 +122,9 @@ Hannes Strobel und Nina Scholz (AG Starthilfe)
     title="Vergesellschaftung - Social Media und soziale Bewegungen"
     time="11-19 Uhr"
      >
-        Zwischen Memes, TikToks und Insta-Stories. Wie läuft die Social Media Arbeit bei Deutsche Wohnen & Co enteignen? Wie entwickeln wir Posts? Wie gelingt ein erfolreiches Community Building und wie gehen wir mit Shitstorms um? Diese und viele weitere Fragen wollen wir zusammen mit euch in diesem Workshop beantworten.
+        Zwischen Memes, TikToks und Insta-Stories. Wie läuft die Social Media Arbeit bei Deutsche Wohnen &amp; Co enteignen? Wie entwickeln wir Posts? Wie gelingt ein erfolreiches Community Building und wie gehen wir mit Shitstorms um? Diese und viele weitere Fragen wollen wir zusammen mit euch in diesem Workshop beantworten.
 Wir stellen unsere Arbeitsweise vor, analysieren gemeinsam Posts, sprechen über praktische Tipps und politische Kommunikation in Sozialen Medien. Außerdem wird es praktische Übungen geben, bitte bringt daher wenn möglich einen Laptop mit.
-        Referent*innen: Mareike & Marcel (Social Media AG DWE) 
+        Referent*innen: Mareike &amp; Marcel (Social Media AG DWE) 
       </ProgrammeItem>
 
     <ProgrammeItem
