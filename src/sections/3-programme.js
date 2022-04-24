@@ -57,7 +57,7 @@ const Programme = () => (
 
       <ProgrammeItem title="Follow the money - Der deutsche Immobilienmarkt als Tummelplatz für Oligarchen, Kriminelle und Steuerhinterzieher" time="11-19 Uhr">
         Christoph Trautvetter (Netzwerk Steuergerechtigkeit, externer Projektleiter „Wem gehört die Stadt?“), Gabriela
-Keller (Correctiv), Moderation: Katalin Gennburg
+Keller (Correctiv), Moderation: Katalin Gennburg<br>
  
 Berlin ist aus Sicht internationaler Kapitalströme zu einem der Zielorte schlechthin avanciert:
 die gebaute Umwelt der Stadt verspricht hohe Renditen und Möglichkeiten zur Spekulation.
@@ -65,8 +65,7 @@ Doch woher kommt das Kapital? Aufwendig verschachtelte Firmen- und
 Beteiligungskonstrukte, die bis in das europäische wie außereuropäische Ausland reichen,
 verschleiern den Ursprung der Kapitalströme und verdecken oftmals, wer die tatsächlich
 wirtschaftlich Berechtigten hinter einer Immobilie sind. Sie ermöglichen so Geldwäsche und
-Steuerhinterziehung. 
-
+Steuerhinterziehung.<br>
 Die Veranstaltung geht der Frage nach, welche Methoden der Verschleierung zum Einsatz
 kommen – und welche gesetzgeberischen Schlupflöcher dies überhaupt erst ermöglichen.
 Aufgezeigt werden sollen diese Methoden anhand konkreter Beispiele aus der jüngeren
