@@ -26,6 +26,7 @@ const Programme = () => (
       >
         Ref: Andrej Holm
       </ProgrammeItem>
+  
       <ProgrammeItem
         title="Art. 15 für Nicht-Jurist:innen (Crashkurse 3)"
         time="17:30 - 18:30"
@@ -44,6 +45,7 @@ const Programme = () => (
       </ProgrammeItem>
 
       <SessionTitle className="text-yellow">Podiumsdiskussion</SessionTitle>
+
       <ProgrammeItem
         title="Auftaktveranstaltung: Der Kampf um Vergesellschaftung im internationalen Kontext"
         time="19:00 - 21:00"
@@ -54,6 +56,7 @@ const Programme = () => (
       </ProgrammeItem>
 
     </ProgrammeDay>
+
     <ProgrammeDay day="Samstag, 28. Mai">
       
       <SessionTitle className="text-yellow">Streitgespräch: Vergesellschaftung jetzt!</SessionTitle>
@@ -141,6 +144,8 @@ Die Datentaskforce berichtet über Mapping, Statistik und Fallstricke der Kommun
       </ProgrammeItem>
 
     </ProgrammeDay>
+
+
     <ProgrammeDay day="Sonntag, 29. Mai">
       
       <ProgrammeItem
@@ -150,17 +155,8 @@ Die Datentaskforce berichtet über Mapping, Statistik und Fallstricke der Kommun
         Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
         Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
         Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
-
       </ProgrammeItem>
-      <ProgrammeItem
-        title="Willkommen"
-        time="11-19 Uhr"
-      >
-        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
-        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
-        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
 
-      </ProgrammeItem>
       <ProgrammeItem
         title="Willkommen"
         time="11-19 Uhr"
@@ -170,8 +166,18 @@ Die Datentaskforce berichtet über Mapping, Statistik und Fallstricke der Kommun
         Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
       </ProgrammeItem>
 
+      <ProgrammeItem
+        title="Willkommen"
+        time="11-19 Uhr"
+      >
+        Crashkurse zu Finanzialisierung (Philipp Metzger), Gentrifizierung und
+        Mietenbewegung (Lisa Vollmer oder Andrej zu seinem Buch), Art. 15 für
+        Nicht-Jurist:innen (Cara Röhner oder Franziska Drohsel)
+      </ProgrammeItem>
 
     </ProgrammeDay>
+
+
     <a href="" target="_blank" className="button bg-yellow text-purple mx-auto">
       Jetzt anmelden!
     </a>
