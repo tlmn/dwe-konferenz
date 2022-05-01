@@ -31,7 +31,7 @@ const Programme = () => (
         title="Art. 15 für Nicht-Jurist:innen"
         time="17:30 - 18:30"
       >
-        Ref: Franziska Drohsel
+        Ref: N.N.
       </ProgrammeItem>
 
       <ProgrammeItem
@@ -50,9 +50,7 @@ const Programme = () => (
         title="Auftaktveranstaltung: Der Kampf um Vergesellschaftung im internationalen Kontext"
         time="19:00 - 21:00"
       >
-        mit Balakrishnan Rajagopal (Video), danach Gespräch mit Andrej Holm,
-        jemanden von DWE und evtl. weiterem internationalen Gast. moderiert von
-        Nina Scholz Livestream
+        mit Balakrishnan Rajagopal & Andrej Holm
       </ProgrammeItem>
     </ProgrammeDay>
 
