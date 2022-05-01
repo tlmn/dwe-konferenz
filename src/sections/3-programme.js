@@ -60,10 +60,10 @@ const Programme = () => (
       </SessionTitle>
 
       <ProgrammeItem
-        title="Auftakt: Eröffnungsrede, Begrüßung, Keynote, /Gespräch?"
+        title="Auftakt: Gespräch mit "
         time="10-11 Uhr"
       >
-        Prof. Tim Wihl
+        Prof. Tim Wihl (Sachverständiger in der Expert:innenkommission des Berliner Senats)
       </ProgrammeItem>
 
       <SessionTitle className="text-yellow">
@@ -74,45 +74,35 @@ const Programme = () => (
         title="Follow the money - Der deutsche Immobilienmarkt als Tummelplatz für Oligarchen, Kriminelle und Steuerhinterzieher"
         time="11-19 Uhr"
       >
-        Christoph Trautvetter (Netzwerk Steuergerechtigkeit, externer
-        Projektleiter „Wem gehört die Stadt?“), Gabriela Keller (Correctiv),
-        Moderation: Katalin Gennburg Berlin ist aus Sicht internationaler
-        Kapitalströme zu einem der Zielorte schlechthin avanciert: die gebaute
-        Umwelt der Stadt verspricht hohe Renditen und Möglichkeiten zur
-        Spekulation. Doch woher kommt das Kapital? Aufwendig verschachtelte
-        Firmen- und Beteiligungskonstrukte, die bis in das europäische wie
-        außereuropäische Ausland reichen, verschleiern den Ursprung der
-        Kapitalströme und verdecken oftmals, wer die tatsächlich wirtschaftlich
-        Berechtigten hinter einer Immobilie sind. Sie ermöglichen so Geldwäsche
-        und Steuerhinterziehung. Die Veranstaltung geht der Frage nach, welche
-        Methoden der Verschleierung zum Einsatz kommen – und welche
-        gesetzgeberischen Schlupflöcher dies überhaupt erst ermöglichen.
-        Aufgezeigt werden sollen diese Methoden anhand konkreter Beispiele aus
-        der jüngeren Stadtgeschichte Berlins, wobei sich auch der Frage nach der
-        Rolle russischer Oligarchen auf dem Berliner Immobilienmarkt zugewandt
-        werden soll.
+        Berlin ist aus Sicht internationaler Kapitalströme zu einem der Zielorte schlechthin avanciert: die gebaute Umwelt 
+        der Stadt verspricht hohe Renditen und Möglichkeiten zur Spekulation. Doch woher kommt das Kapital? Aufwendig 
+verschachtelte Firmen- und Beteiligungskonstrukte, die bis in das europäische wie außereuropäische Ausland reichen, 
+          verschleiern den Ursprung der Kapitalströme und verdecken oftmals, wer die tatsächlich wirtschaftlich Berechtigten 
+        hinter einer Immobilie sind. Sie ermöglichen so Geldwäsche und Steuerhinterziehung. Die Veranstaltung geht der Frage nach, 
+          welche Methoden der Verschleierung zum Einsatz kommen – und welche gesetzgeberischen Schlupflöcher dies überhaupt erst 
+        ermöglichen. Aufgezeigt werden sollen diese Methoden anhand konkreter Beispiele aus der jüngeren Stadtgeschichte Berlins, 
+          wobei sich auch der Frage nach der Rolle russischer Oligarchen auf dem Berliner Immobilienmarkt zugewandt werden soll.
+      
+        Mit: Christoph Trautvetter (Netzwerk Steuergerechtigkeit, externer Projektleiter „Wem gehört die Stadt?“), 
+          Gabriela Keller (Correctiv), Moderation: Katalin Gennburg
       </ProgrammeItem>
 
       <ProgrammeItem
         title="Eine Anstalt öffentlichen Rechts - unsere Alternative zu privaten Immobilienkonzernen"
         time="11-19 Uhr"
       >
-        Die Wohnungsbestände großer Immobilienkonzerne in Berlin zu
-        vergesellschaften, d.h. in demokratisch verwaltetes Gemeineigentum zu
-        überführen, ist das Ziel der Kampagne Deutsche Wohnen und Co enteignen.
-        Aber was genau bedeutet das? Wie muss die geplante Anstalt öffentlichen
-        Rechts organisiert sein, um eine gemeinwohlorientierte, funktionierende
-        und demokratische Verwaltung zu ermöglichen? Zu dieser Frage bereitet
-        die Vergesellschaftungs-AG der Kampagne derzeit einen Vorschlag vor. Die
-        dabei relevant werdenden Themen spielen in der Mieter:innenbewegung
-        Berlins schon lange eine Rolle: Zu Fragen der Mieter:innenmitbestimmung
-        und zur transparenten und diskriminierungsarmen Wohnungsvergabe z.B.
-        gibt es bereits differenzierte Diskussionen und praktische Erfahrungen.
-        Beim geplanten Workshop wollen wir unsere bisherigen Ideen vorstellen
-        und am Beispiel dieser Aspekte mit Akteur:innen der Mietenbewegung ins
-        Gespräch darüber kommen, wie die neu zu gründende Anstalt öffentlichen
-        Rechts konkret aussehen kann. Referent*innen: Vergesellschaftungs-AG von
-        DWE
+       Die Wohnungsbestände großer Immobilienkonzerne in Berlin zu vergesellschaften, d.h. in 
+demokratisch verwaltetes Gemeineigentum zu überführen, ist das Ziel der Kampagne Deutsche Wohnen 
+und Co enteignen. Aber was genau bedeutet das? Wie muss die geplante Anstalt öffentlichen Rechts 
+organisiert sein, um eine gemeinwohlorientierte, funktionierende und demokratische Verwaltung zu 
+ermöglichen? Zu dieser Frage bereitet die Vergesellschaftungs-AG der Kampagne derzeit einen Vorschlag 
+vor. Die dabei relevant werdenden Themen spielen in der Mieter:innenbewegung Berlins schon lange eine Rolle: 
+Zu Fragen der Mieter:innenmitbestimmung und zur transparenten und diskriminierungsarmen Wohnungsvergabe 
+z.B. gibt es bereits differenzierte Diskussionen und praktische Erfahrungen. Beim geplanten Workshop wollen
+wir unsere bisherigen Ideen vorstellen und am Beispiel dieser Aspekte mit Akteur:innen der Mietenbewegung 
+ins Gespräch darüber kommen, wie die neu zu gründende Anstalt öffentlichen Rechts konkret aussehen kann. 
+
+Referent*innen: Vergesellschaftungs-AG von DWE
       </ProgrammeItem>
 
       <ProgrammeItem
