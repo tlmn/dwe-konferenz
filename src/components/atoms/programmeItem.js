@@ -13,10 +13,24 @@ const ProgrammeItem = ({ title, time, children, category }) => {
         {title}
       </h3>
       <span>{category}</span>
-      <p
-        dangerouslySetInnerHTML={{ __html: children }}
-        className={clsx("text-lg", !isOpen && "hidden", "md:block")}
-      />
+      {Array.isArray(children) ? (
+        children.map((child, index) => {
+          return typeof child === "object" ? (
+            <br key={index} />
+          ) : (
+            <p
+              dangerouslySetInnerHTML={{ __html: child }}
+              className={clsx("text-lg", !isOpen && "hidden", "md:block")}
+              key={index}
+            />
+          );
+        })
+      ) : (
+        <p
+          dangerouslySetInnerHTML={{ __html: children }}
+          className={clsx("text-lg", !isOpen && "hidden", "md:block")}
+        />
+      )}
     </div>
   );
 };
