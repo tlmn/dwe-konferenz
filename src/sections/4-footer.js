@@ -18,7 +18,7 @@ const Footer = () => (
       </li>
       <li>
         <Button
-          href=""
+          href="https://www.dwenteignen.de/spenden/"
           className="bg-purple text-yellow block px-2 py-1 rounded-lg"
         >
           Mitmachen
@@ -26,7 +26,7 @@ const Footer = () => (
       </li>
       <li>
         <Button
-          href=""
+          href="https://www.dwenteignen.de/mitmachen/"
           className="bg-purple text-yellow block px-2 py-1 rounded-lg"
         >
           Impressum
@@ -34,7 +34,7 @@ const Footer = () => (
       </li>
       <li>
         <Button
-          href=""
+          href="https://www.dwenteignen.de/impressum/"
           className="bg-purple text-yellow block px-2 py-1 rounded-lg"
         >
           Kontakt
