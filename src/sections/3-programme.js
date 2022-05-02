@@ -42,7 +42,6 @@ const Programme = () => (
         Nachbarschaftskampagnen zu erfolgreichen Mieter*Innenkämpfen um
         Enteignung &amp; Co beitragen können
         <br />
-        <br />
         Ref: Tashy Endres und Georgios Thodos (beide: AG Starthilfe)
       </ProgrammeItem>
 
