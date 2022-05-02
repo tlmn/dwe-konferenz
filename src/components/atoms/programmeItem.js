@@ -7,7 +7,7 @@ const ProgrammeItem = ({ title, time, children, category }) => {
     <div>
       <span>{time}</span>
       <h3
-        className="font-bold text-2xl underline"
+        className="font-bold text-2xl underline md:no-underline"
         onClick={() => setIsOpen(!isOpen)}
       >
         {title}
