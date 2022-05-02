@@ -341,7 +341,7 @@ const Programme = () => (
       </ProgrammeItem>
     </ProgrammeDay>
 
-    <a href="" target="_blank" className="button bg-yellow text-purple mx-auto">
+    <a href="https://dwewolke.de/index.php/apps/forms/ymPCk2GbeTi9rnzx" target="_blank" className="button bg-yellow text-purple mx-auto">
       Jetzt anmelden!
     </a>
 
