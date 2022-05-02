@@ -41,7 +41,8 @@ const Programme = () => (
         Wie Organisierende Mietrechts- Sozial-Beratungen und
         Nachbarschaftskampagnen zu erfolgreichen Mieter*Innenkämpfen um
         Enteignung &amp; Co beitragen können
-        <br/>
+        <br>
+        <br>
         Ref: Tashy Endres und Georgios
         Thodos (beide: AG Starthilfe)
       </ProgrammeItem>
