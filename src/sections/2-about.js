@@ -5,7 +5,7 @@ import ReadMore from "@/components/molecules/readMore";
 import Section from "@/components/molecules/section";
 import Body from "@/components/atoms/body";
 import ImageUnterschriftenSammeln from "@/public/images/unterschriftenSammeln.jpg";
-import ImageZahlen from "@/public/images/zahlen.jpg";
+import ImageGruppenfoto from "@/public/images/gruppenfoto-DWE.jpg";
 import Image from "next/image";
 
 const About = () => (
@@ -13,7 +13,7 @@ const About = () => (
     <div className="-mb-2">
       <div className="max-h-[50vw] overflow-hidden">
         <Image
-          src={ImageZahlen}
+          src={ImageGruppenfoto}
           alt="Zahl der Unterschriften für den Volksentscheid auf Plakaten"
           placeholder="blur"
           priority={true}
