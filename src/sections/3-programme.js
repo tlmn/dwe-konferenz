@@ -105,6 +105,24 @@ ins Gespräch darüber kommen, wie die neu zu gründende Anstalt öffentlichen R
 Referent*innen: Vergesellschaftungs-AG von DWE
       </ProgrammeItem>
 
+  <ProgrammeItem
+        title="Enteignen für eine (klima)gerechte Stadt für alle (RLS)"
+        time="11-19 Uhr"
+      >
+       Das Geschäftsmodell der großen Wohnungsunternehmen lautet: 
+Profitmaximierung auf Kosten der Mieter*innen. Mietenbewegungen und –vereine kritisieren seit Langem 
+die Luxussanierungen im Altbau als zentrales Instrument der Verdrängung von Bestandsmieter*innen ohne 
+großes Einkommen. Und wenn die Kosten vollends auf die Mieter*innen umgelagert werden, tragen auch 
+energetische Sanierungen zur Mietpreisspirale und Verdrängung bei. Und dennoch wird die Dringlichkeit 
+zur Emissionsreduktion in allen Sektoren, einer gerechten Klimapolitik und Klimaanpassungen immer deutlicher.
+Mit dem Faire-Mieten-Modell zeigt die Kampagne, wie die Vergesellschaftung haushaltsneutral gelingt und 
+trotzdem sozial verträgliche Mietpreise etabliert werden können. Aber lassen sich so auch die Klimaanpassung 
+im Bestand, und der Neubau von nachhaltigem und preisgünstigen Wohnraum finanzieren? Und welche Chancen bietet 
+die Vergesellschaftung von Wohnraum für die sozial, wie klimagerechte Stadt?
+
+Es diskutieren Theresa Keilhacker (Architektenkammer Berlin), Benedikt Walters
+      </ProgrammeItem>
+
       <ProgrammeItem
         title="Vom Mieter*innen-Protest zur Enteignung? Über das komplizierte Verhältnis von Mieter*innen-Kämpfen und Enteigungs-Kampagne  "
         time="11-19 Uhr"
