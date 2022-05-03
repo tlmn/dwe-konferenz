@@ -193,7 +193,7 @@ Für den Themenstrang 2 Skill Sharing kommt noch ein weiterer hinzu:
         Referent:innen: DWE FLINTA-Vernetzung
       </ProgrammeItem>
 
-  <ProgrammeItem title="... aber was macht ihr eigentlich?" ein Stimmungstafel-Workshop mit der Arbeitsgruppe Right to the City for All
+  <ProgrammeItem title=""... aber was macht ihr eigentlich?" ein Stimmungstafel-Workshop mit der Arbeitsgruppe Right to the City for All"
     >
         Was kann passieren, wenn junge, queere, nicht-in-Deutschland-geborene Mieter*innen sich zusammentun, um für Wohnrecht in Berlin zu kämpfen? Die AG Right to the City For all richtet sich an nichtdeutsche Mieter*innen, die sich mit Englisch als Arbeitssprache wohlfühlen. In diesem Workshop nutzen wir die Erfahrungen, die wir seit Dezember 2020 gesammelt haben, um möglichen nächsten Schritten im Kampf um die Umsetzung des Volkentscheids vorzustellen.
              <br />
