@@ -31,7 +31,7 @@ const Programme = () => (
         title="Art. 15 für Nicht-Jurist:innen"
         time="17:30 - 18:30"
       >
-        Ref: N.N.
+        Ref: Franziska Drohsel
       </ProgrammeItem>
 
       <ProgrammeItem
@@ -144,6 +144,15 @@ const Programme = () => (
         Referent:innen: Hannes Strobel und Nina Scholz (AG Starthilfe von DWE)
       </ProgrammeItem>
 
+      <ProgrammeItem title="“Enteignung schafft keine einzige Wohnung” - Mythen und Fakten zur Vergesellschaftung von Wohnraum (RLS)">
+        ...
+Seit dem Kampagnenstart von Deutsche Wohnen und Co enteignen sind die Aktivist*innen Mythen, Fehlinformationen und Scheinargumenten ausgesetzt, mit denen meist neoliberale und konservative Stimmen sowie Vertreter*innen der Wohnungswirtschaft eine Vergesellschaftung großer Wohnungsbestände verhindern möchten. Auch in Medienberichten werden diese Darstellungen oft unkritisch übernommen. Trotzdem stimmten die Berliner*innen mit überwältigender Mehrheit für das Vorhaben. Doch im Rahmen der nun eingesetzten Senatskommission ist mit ähnlichen Argumenten zu rechnen. Mit den am häufigsten geäußerten Einwänden haben sich Nelli Tügel (Redakteurin analyse+kritik) für die Rosa-Luxemburg-Stiftung auseinandergesetzt. Im Workshop wollen wir einige dieser Argumente aufgreifen und sie gemeinsam mit Jenny Stupka (Deutsche Wohnen & Co. enteignen), Niklas Schenker (MdA DIE LINKE) und Katrin Schmidberger (MdA Bündnis 90/Die Grünen) politisch einordnen und diskutieren. Moderation: Stefan Thimmel (Rosa-Luxemburg-Stiftung)
+
+Für den Themenstrang 2 Skill Sharing kommt noch ein weiterer hinzu:
+        <br />
+       "Recherche Workshop“ von der Mieter*innen-Initiative Stop Heimstaden
+      </ProgrammeItem>
+
       <SessionTitle className="text-yellow">
         Themenstrang 2: Skill-Sharing
       </SessionTitle>
@@ -182,6 +191,42 @@ const Programme = () => (
         funktioniert und warum mit Kompliz*innen alles besser ist.
         <br />
         Referent:innen: DWE FLINTA-Vernetzung
+      </ProgrammeItem>
+
+  <ProgrammeItem title="... aber was macht ihr eigentlich?" ein Stimmungstafel-Workshop mit der Arbeitsgruppe Right to the City for All
+    >
+        Was kann passieren, wenn junge, queere, nicht-in-Deutschland-geborene Mieter*innen sich zusammentun, um für Wohnrecht in Berlin zu kämpfen? Die AG Right to the City For all richtet sich an nichtdeutsche Mieter*innen, die sich mit Englisch als Arbeitssprache wohlfühlen. In diesem Workshop nutzen wir die Erfahrungen, die wir seit Dezember 2020 gesammelt haben, um möglichen nächsten Schritten im Kampf um die Umsetzung des Volkentscheids vorzustellen.
+             <br />
+        Referent:innen: Right to the City for All
+
+      </ProgrammeItem>
+
+
+  <ProgrammeItem title=Bündnis Zwangsräumung verhindern - Aktionsformen und Organisierung
+Erfahrungen aus 10 Jahren Kampf
+>
+        Das Bündnis "Zwangsräumung verhindern" fing mit "Ob Nuryie, ob Kalle - wir bleiben alle!" vor ca. 10 Jahren an.
+Ein erster Höhepunkt in der Organisierung war die Zwangsräumung der Familie Gülbol mit 800 Polizisten und einer Blockade. Nicht jede Zwangsräumung konnte verhindert werden, aber wir haben viele Erfahrungen gesammelt in sehr unterschiedlichen Aktionsformen und der Organisierung. Die wollen wir mit euch teilen, aber auch von euch lernen.
+        <br />
+
+        Referent.innen: Bündnis Zwangsräumung verhindern
+        <br />
+        Referent:innen: DWE FLINTA-Vernetzung
+      </ProgrammeItem>
+
+<ProgrammeItem title="Recherche Workshop“ von der Mieter*innen-Initiative Stop Heimstaden
+>
+        Die Mieter*innen-Initiative Stopp Akelius Berlin hat über Jahre hinweg immer wieder viel über Akelius recherchiert und veröffentlicht, z.B. über das Geschäftsmodell, die Mietpreistreiberei, die Steuertricksereien und das dubiose internationale Firmen- und Stiftungsgeflecht. Die Ergebnisse sind eingeflossen in stadtpolitische Bündnisse bzw. Initiativen und in die konkrete Mieter*innen-Organisierung. Akelius hat letztlich die Reißleine gezogen und mehrere Standorte aufgelöst und sich aus Europa weitgehend zurückgezogen. In einem Mega-Deal ging alles an Heimstaden woraufhin Stopp Akelius Berlin mit der Mieter*innen-Initiative Stop Heimstaden fusionierte.
+
+Vertreter*innen des ehemaligen Recherche Teams von Stopp Akelius Berlin wollen ihre Erfahrungen weitergeben und bieten einen Workshop an zu den Themen:
+
+1. Was kann ich wo und wie über meine Vermieter/Eigentümer recherchieren?
+2. Was kann ich mit den Recherche-Ergebnissen alles anfangen?
+3. Wo kann ich mir ggf. Hilfe bei der Recherche bzw. der Auswertung und Veröffentlichung der Recherche-Ergebnissen holen?
+
+Als Beispiele dienen Akelius und Heimstaden, aber auch andere Eigentümer*innen. Bringt als Teilnehmende gerne eure eigenen Beispiele mit. Bitte schaut zumindest vorab nach, wer genau in eurem Mietvertrag steht und an wen genau ihr eure Miete zahlt.
+        <br />
+        Referent:innen: Mieter*innen-Initiative Stop Heimstaden
       </ProgrammeItem>
 
       <SessionTitle className="text-yellow">
@@ -235,23 +280,9 @@ const Programme = () => (
       </ProgrammeItem>
 
       <ProgrammeItem title="Die Bodenpreisrallye stoppen">
-        Noch stärker als die Mieten steigen seit Jahren und Jahrzehnten die
-        Preise für den Boden, auf dem die Wohnungen stehen. Städtische
-        Grundstücke sind - ebenso wie landwirtschaftliche Flächen - zu weltweit
-        begehrten Anlage- und Spekulationsobjekten geworden, ganz besonders seit
-        der weltweiten Finanzkrise 2008. Käufer:innen finden sich auch zu
-        aberwitzigen Preisen, weil die ebenso verlässlich steigenden Mieten oder
-        auch der Verkauf ein paar Jahre später sichere und hohe Renditen
-        versprechen. So arbeitet der Boden als Umverteilungsmaschine, die den
-        Eigentümer:innen auf Kosten der Mietenden leistungslose Gewinne
-        verschafft. Nur wenn wir diese Maschine stoppen, sind leistbare Mieten,
-        bezahlbarer Neubau und die Rückgewinnung demokratischer Kontrolle über
-        die Art, wie sich die Städte entwickeln, überhaupt denkbar. Wie
-        leistungslose Gewinne abgeschöpft und die Bodenpreisrallye gestoppt
-        werden kann, soll in diesem Workshop diskutiert werden.
+        Noch stärker als die Mieten steigen seit Jahren und Jahrzehnten die Preise für den Boden, auf dem die Wohnungen stehen. Städtische Grundstücke sind - ebenso wie landwirtschaftliche Flächen - zu weltweit begehrten Anlage- und Spekulationsobjekten geworden, ganz besonders seit der weltweiten Finanzkrise 2008. Käufer:innen finden sich auch zu aberwitzigen Preisen, weil die ebenso verlässlich steigenden Mieten oder auch der Verkauf ein paar Jahre später sichere und hohe Renditen versprechen. So arbeitet der Boden als Umverteilungsmaschine, die den Eigentümer:innen auf Kosten der Mietenden leistungslose Gewinne verschafft. Nur wenn wir diese Maschine stoppen, sind leistbare Mieten, bezahlbarer Neubau und die Rückgewinnung demokratischer Kontrolle über die Art, wie sich die Städte entwickeln, überhaupt denkbar. Wie leistungslose Gewinne abgeschöpft und die Bodenpreisrallye gestoppt werden kann, soll in diesem Workshop diskutiert werden.
         <br />
-        Referent: Christoph Trautvetter (ext. Projektleiter „Wem gehört die
-        Stadt“, RLS), moderiert von Stefan Thimmel (RLS)
+        Referent: Christoph Trautvetter (ext. Projektleiter „Wem gehört die Stadt“, RLS), Dirk Löhr (Prof. an der Hochschule Trier), Lorena Jonas (Bizim Kiez) moderiert von Stefan Thimmel (RLS)
       </ProgrammeItem>
 
       <ProgrammeItem title="Demokratisierung des Wohnens - Wege zur Selbstbestimmung in unterschiedlichen Eigentumsverhältnissen">
@@ -265,29 +296,12 @@ const Programme = () => (
       </ProgrammeItem>
 
       <ProgrammeItem title="Wohnen jenseits des Markts – Herausforderungen für ein gemeinnütziges Wohnen">
-        Die derzeitige wohnungspolitische Notlage ist Ausweis des Marktversagens
-        bei der Bereitstellung von günstigem Wohnraum. Neue Regeln und
-        Instrumente sind nötig, um Wohnen wieder leistbar für alle zu machen.
-        Gleichzeitig gilt es, Häuser klimaneutral umzubauen und die
-        demokratische Beteiligung der Bewohnerschaft bei der Verwaltung und
-        Bewirtschaftung einzuführen. Wie könnte eine Transformation der
-        Wohnraumversorgung gelingen, welche Ziele sollen formuliert werden,
-        welche Konflikte bestehen dabei? Im Workshop wollen wir anhand von
-        unterschiedlichen Vorstellungen von Gemeinwohl / Gemeinnützigkeit /
-        Gemeinwirtschaft über Lösungen der Wohnungskrise diskutieren. Wir
-        besprechen Modelle und Ansätze, die dauerhaft ein Wohnen jenseits des
-        Markts ermöglichen und einen Eindruck geben, wie Vergesellschaftung
-        praktisch aussehen kann. Dabei sollen die Vor- und Nachteile
-        verschiedener Ansätze vorgestellt und die Zielkonflikte benannt werden.
-        Der Workshop sucht nach Möglichkeiten, soziale, ökologische und
-        demokratische Bedürfnisse zusammenzubringen – und die praktisch
-        umzusetzen.
+        DDie derzeitige wohnungspolitische Notlage ist Ausweis des Marktversagens bei der Bereitstellung von günstigem Wohnraum. Neue Regeln und Instrumente sind nötig, um Wohnen wieder leistbar für alle zu machen. Gleichzeitig gilt es, Häuser klimaneutral umzubauen und die demokratische Beteiligung der Bewohnerschaft bei der Verwaltung und Bewirtschaftung einzuführen. Wie könnte eine Transformation der Wohnraumversorgung gelingen, welche Ziele sollen formuliert werden, welche Konflikte bestehen dabei? Im Workshop wollen wir anhand von unterschiedlichen Vorstellungen von Gemeinwohl / Gemeinnützigkeit / Gemeinwirtschaft über Lösungen der Wohnungskrise diskutieren. Wir besprechen Modelle und Ansätze, die dauerhaft ein Wohnen jenseits des Markts ermöglichen und einen Eindruck geben, wie Vergesellschaftung praktisch aussehen kann. Dabei sollen die Vor- und Nachteile verschiedener Ansätze vorgestellt und die Zielkonflikte benannt werden. Der Workshop sucht nach Möglichkeiten, soziale, ökologische und demokratische Bedürfnisse zusammenzubringen – und die praktisch umzusetzen.
+
         <br />
-        Inputs ok -sabine notz tbc - Christian Felber, Gemeinwohlökonomie -
-        Sabine Horlitz (Mitautorin ‚Neue Wohnungsgemeinnützigkeit, RLS 2017‘ /
-        Stadtbodenstiftung - Person von DWE (zu Gemeinwirtschaft) - Person von
-        Immovilien / Montagsstiftung / NABU Bodenbesteuerung (Ulrich Kriese)
-        Moderation: Sebastian Botzem (Genossenschafter*innen)
+       Sabine Notz, Christian Felber (Gemeinwohlökonomie), Sabine Horlitz (Mitautorin Neue Wohnungsgemeinnützigkeit), Ulrich Krise (NABU Bodenbesteuerung)
+        <br />
+Moderation: Sebastian Botzem (Genossenschafter*innen)
       </ProgrammeItem>
 
       <SessionTitle className="text-yellow">
@@ -335,6 +349,9 @@ const Programme = () => (
         title="Abschluss-Podium Vorschlag: Wie weiter mit der Mietenbewegung – in Berlin und bundesweit?"
         time="12:30-14 Uhr"
       >
+          
+          Mit Aktivist:innen verschiedener Mieten- und Enteignungsinitiativen
+          <br />
         Moderiert von DWE, plus Hamburg enteignet, bundesweiite
         Enteignungs-Vernetzung, Kampagne Mietenstopp + 1-2 Joker (Eindrücke vom
         Kongress) Verabschiedung der Kongresserklärung
