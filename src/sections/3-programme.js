@@ -424,6 +424,12 @@ const Programme = () => (
       Jetzt anmelden!
     </a>
 
+    <Button
+      href="/Programm_Enteignungskonferenz.pdf"
+      className="bg-yellow text-purple button mx-auto"
+    >
+      Programm als PDF
+    </Button>
   </Section>
 );
 export default Programme;
