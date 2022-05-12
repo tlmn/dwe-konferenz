@@ -5,15 +5,16 @@ const ProgrammeItem = ({ title, time, location, children, category }) => {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <div>
-      <span>{time}, Ort: {location}</span>
+      <span>
+        {time}, Ort: {location}
+      </span>
       <h3
-        className="font-bold text-2xl underline md:no-underline"
+        className="font-bold text-2xl underline cursor-pointer"
         onClick={() => setIsOpen(!isOpen)}
       >
         {title}
       </h3>
-      {children}
-      
+      <div className={clsx(isOpen ? "block" : "hidden", "text-lg")}>{children}</div> 
     </div>
   );
 };
