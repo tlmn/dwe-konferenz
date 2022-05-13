@@ -14,8 +14,8 @@ const Programme = () => (
     {PROGRAMME.map(({ day, items }, index) => (
       <Fragment key={`day-${index}`}>
         <ProgrammeDay day={day}>
-          {items.map(({ title, time, location, teaser }) => (
-            <ProgrammeItem title={title} time={time} location={location}>
+          {items.map(({ title, time, location, teaser, eventID }) => (
+            <ProgrammeItem title={title} time={time} location={location} eventID={eventID}>
               <span dangerouslySetInnerHTML={{ __html: teaser }} />
             </ProgrammeItem>
           ))}
