@@ -4,6 +4,7 @@ export default [
     items: [
       {
         title: "Crashkurs: Was ist: Finanzialisierung des Wohnens? (RLS)",
+        eventID: "C1",
         time: "17:30–18:30",
         location: "H 0111",
         teaser: `<p>Die massiven Privatisierungen &ouml;ffentlicher Wohnungsbest&auml;nde in den 1990er und 2000er Jahren haben der zunehmenden Vermarktlichung und anschlie&szlig;ende &bdquo;Finanzialisierung&ldquo; des Wohnens den Weg bereitet. Die Umwandlung von Wohnraum in eine Finanzanlage versch&auml;rft die Wohnungskrise in den St&auml;dten, indem sie die Wohnverh&auml;ltnisse tausender Mieter*innen der Spekulation und den Strukturen der Finanzm&auml;rkte unterwirft: Explodierende Mieten, Wohnungsnot und Verdr&auml;ngung sind einige der unkontrollierten Ausw&uuml;chse dieser Dynamik. Aber was ist das eigentlich genau, Finanzialisierung? Und wie konnte es dazu kommen?</p>
@@ -13,6 +14,7 @@ export default [
       },
       {
         title: "Crashkurs: Wohnungsfrage und Wohnungspolitik (RLS)",
+        eventID: "C2",
         time: "17:30–18:30",
         location: "H 0110",
         teaser: `<p>Der Crashkurs gibt einen &Uuml;berblick &uuml;ber die &ouml;konomischen und politischen Rahmenbedingungen des Wohnens und dar&uuml;ber, warum es immer wieder zu Wohnungskrisen kommt. Ausgehend vom systemisch bedingten Widerspruch zwischen dem "Wohnen als Zuhause" und dem "Wohnen als Immobilie" sollen drei strategische Grundorientierungen einer sozial ausgerichteten Wohnungspolitik herausgearbeitet werden: die Dekommodifizierung, Demokratisierung und die Desalienation. Abschlie&szlig;end sollen die verschiedenen Instrumente der Wohnungspolitik (Mietrecht, F&ouml;rderung, Gemeinn&uuml;tzigkeit, Kommunaler Wohnungsbau usw.) in ihren Voraussetzungen, Wirkungen und Grenze vorgestellt und danach befragt, welchen Beitrag sie zu einer dauerhaften Versorgung mit leistbaren, angemessenen und bedarfsgerechten Wohnungen leisten k&ouml;nnen.</p>
@@ -21,6 +23,7 @@ export default [
       },
       {
         title: "Crashkurs: Artikel 15 für Nicht-Jurist*innen (RLS)",
+        eventID: "C3",
         time: "17:30–18:30",
         location: "H 0107",
         teaser: `<p>In diesem Crashkurs wird es darum gehen, die Struktur des &ldquo;Vergesellschaftungs-Artikels&rdquo; 15 Grundgesetz zu erl&auml;utern. Dabei wird kurz auf die Geschichte des Artikel 15 und seine Rolle seit Bestehen des Grundgesetzes eingegangen. Im Schwerpunkt werden dann die Voraussetzungen einer Sozialisierung nach Artikel 15 GG und die Frage der Entsch&auml;digung diskutiert.</p>
@@ -31,6 +34,7 @@ export default [
         title:
           "Auftaktveranstaltung: Die Welt schaut auf Berlin - der Kampf um Vergesellschaftung im internationalen Kontext",
         time: "19:00–21:00",
+        eventID: "P1",
         location: "H 0105 (Audimax)",
         teaser: `<p>mit <strong>Balakrishnan Rajagopal</strong> (UN-Sonderberichterstatter f&uuml;r das Recht auf Wohnen - per Video)</p>
         <p>Mit anschlie&szlig;endem Gespr&auml;ch mit <strong>Andrej Holm</strong> (Stadtforscher HU Berlin), <strong>Jovana Timotijević</strong> (Ministry of Space, Belgrad); <strong>Melissa Koutouzis</strong> (Woonprotest, Amsterdam) und <strong>Joanna Kusiak</strong> (Deutsche Wohnen &amp; Co. enteignen), moderiert von <strong>Tashy Endres</strong> (AG Starthilfe von Deutsche Wohnen &amp; Co. enteignen)</p>
@@ -38,12 +42,14 @@ export default [
       },
       {
         title: "Get together",
+        eventID: "G1",
         time: "21:00–23:30",
         location: "Vorplatz",
         teaser: ``,
       },
       {
-        title: "Filmvorführung “Start Wearing Purple” ",
+        title: "Filmvorführung &bdquo;Start Wearing Purple&ldquo;",
+        eventID: "F1",
         time: "21:00–23:30",
         location: "H 0110",
         teaser: ``,
@@ -56,6 +62,7 @@ export default [
       {
         title:
           "Auftakt: Artikel 15 GG - Berichte aus einer langen Liebesgeschichte",
+        eventID: "P2",
         time: "9:30–10:30",
         location: "H 0105 (Audimax)",
         teaser: `<p>Keynote &amp; Interview mit <strong>Prof. Tim Wihl</strong></p>`,
@@ -63,6 +70,7 @@ export default [
       {
         title:
           "Eine Anstalt öffentlichen Rechts – unsere Alternative zu privaten Immobilienkonzernen",
+        eventID: "S1W2",
         time: "10:30–12:30",
         location: "H 0110",
         teaser: `<p>Die Wohnungsbest&auml;nde gro&szlig;er Immobilienkonzerne in Berlin zu vergesellschaften, d.h. in demokratisch verwaltetes Gemeineigentum zu &uuml;berf&uuml;hren, ist das Ziel der Kampagne Deutsche Wohnen und Co enteignen. Aber was genau bedeutet das? Wie muss die geplante Anstalt &ouml;ffentlichen Rechts organisiert sein, um eine gemeinwohlorientierte, funktionierende und demokratische Verwaltung zu erm&ouml;glichen? Zu dieser Frage bereitet die Vergesellschaftungs-AG der Kampagne derzeit einen Vorschlag vor.</p>
@@ -72,6 +80,7 @@ export default [
       {
         title:
           "Vom Mieter*innen-Protest zur Enteignung? Über das komplizierte Verhältnis von Mieter*innen-Kämpfen und Enteignungs-Kampagne und die Chancen von nachbarschaftlichem Organizing",
+        eventID: "S1W3",
         time: "10:30–12:30",
         location: "Raum 3006",
         teaser: `<p>Ohne die Proteste von Mieter*innen von Deutsche Wohnen und Co. gegen Mieterh&ouml;hungen und Verdr&auml;ngungen w&auml;re die Enteignungskampagne in Berlin nie m&ouml;glich gewesen. Die Kampagne selbst weist &uuml;ber die K&auml;mpfe hinaus. W&auml;hrend des Volksentscheids haben sich Kampagne und konkrete K&auml;mpfe immer wieder gegenseitig befl&uuml;gelt. Ohne Organisierung gibt es also keine Enteignung - und trotzdem bleiben die Aktivist*innen in der Kampagne oft unter sich. Welche L&ouml;sungen gibt es? Wie kann die Organisierung von Nachbarschaften (Community Organizing) dazu beitragen, mehr Druck f&uuml;r Enteignung zu machen? Wie gewinnen wir mit Organizing-Methoden mehr Aktive, Schl&uuml;sselpersonen und Sprecher*innen in den Best&auml;nden von Vonovia und Co.? Was k&ouml;nnen wir aus der Vergangenheit f&uuml;r die Zukunft lernen?</p>
@@ -79,7 +88,8 @@ export default [
       },
       {
         title:
-          "“Enteignung schafft keine einzige Wohnung” - Mythen und Fakten zur Vergesellschaftung von Wohnraum (RLS)",
+          "&bdquo;Enteignung schafft keine einzige Wohnung&ldquo; - Mythen und Fakten zur Vergesellschaftung von Wohnraum (RLS)",
+        eventID: "S1W5",
         time: "10:30–12:30",
         location: "H 3007",
         teaser: `<p>Seit dem Kampagnenstart von Deutsche Wohnen und Co enteignen sind die Aktivist*innen Mythen, Fehlinformationen und Scheinargumenten ausgesetzt, mit denen meist neoliberale und konservative Stimmen sowie Vertreter*innen der Wohnungswirtschaft eine Vergesellschaftung gro&szlig;er Wohnungsbest&auml;nde verhindern m&ouml;chten. Auch in Medienberichten werden diese Darstellungen oft unkritisch &uuml;bernommen. Trotzdem stimmten die Berliner*innen mit &uuml;berw&auml;ltigender Mehrheit f&uuml;r das Vorhaben. Doch im Rahmen der nun eingesetzten Senatskommission ist mit &auml;hnlichen Argumenten zu rechnen. Mit den am h&auml;ufigsten ge&auml;u&szlig;erten Einw&auml;nden haben sich <strong>Nelli T&uuml;gel</strong> (Redakteurin analyse+kritik) f&uuml;r die Rosa-Luxemburg-Stiftung auseinandergesetzt. Im Workshop wollen wir einige dieser Argumente aufgreifen und sie gemeinsam mit <strong>Jenny Stupka</strong> (Deutsche Wohnen &amp; Co. enteignen), <strong>Niklas Schenker</strong> (MdA DIE LINKE) und <strong>Katrin Schmidberger</strong> (MdA B&uuml;ndnis 90/Die Gr&uuml;nen) politisch einordnen und diskutieren. Moderation: <strong>Stefan Thimmel</strong> (Rosa-Luxemburg-Stiftung)</p>
@@ -87,6 +97,7 @@ export default [
       },
       {
         title: "#Vergesellschaftung - Social Media und soziale Bewegungen",
+        eventID: "S2W1",
         time: "10:30–12:30",
         location: "H 3004",
         teaser: `<p>Zwischen Memes, TikToks und Insta-Stories. Wie l&auml;uft die Social Media Arbeit bei Deutsche Wohnen &amp; Co enteignen? Wie entwickeln wir Posts? Wie gelingt ein erfolreiches Community Building und wie gehen wir mit Shitstorms um? Diese und viele weitere Fragen wollen wir zusammen mit euch in diesem Workshop beantworten.</p>
@@ -96,6 +107,7 @@ export default [
       {
         title:
           "Aufwerten, Auspressen, Abschöpfen - Entstehung, Geschäftsmodelle und Widerstände gegen große Wohnungskonzerne wie Vonovia, LEG, Heimstaden und Co (RLS)",
+        eventID: "S3W1",
         time: "10:30–12:30",
         location: "H 0104",
         teaser: `<p>Private Wohnungsunternehmen sind relativ neu in der Riege der Gro&szlig;konzerne. Sie sind ein Produkt der Neoliberalisierung des Wohnens, das hei&szlig;t: der Privatisierung &ouml;ffentlicher Wohnungsbest&auml;nde, der Deregulierung und der zunehmenden Finanzmarktorientierung der Wohnungswirtschaft. Aber was genau zeichnet die Wohnungskonzerne, jenseits ihrer Gr&ouml;&szlig;e, gegen&uuml;ber anderen privaten Vermieter*innen aus? Welche Gesch&auml;ftsmodelle verfolgen sie? Wie erreichen sie ihre Rendite und wie finanzieren sie die hohen, allj&auml;hrlichen Aussch&uuml;ttungen an ihre Aktion&auml;r*innen? Wer profitiert dabei &ndash; und auf wessen Kosten? Wie k&ouml;nnen sich Mieter*innen dagegen wehren? Und was ist von den Versprechungen &uuml;ber freiwillige Begrenzungen von Mieterh&ouml;hungen oder der Pr&auml;sentation von Vonovia &amp; Co. als &bdquo;verl&auml;ssliche Partner*innen&ldquo; bei Neubau und einer klimavertr&auml;glichen Sanierung der Best&auml;nde zu halten?</p>
@@ -105,6 +117,7 @@ export default [
       {
         title:
           "Rent Control! - Mietenstopp, Mietendeckel und der Weg dahin (RLS)",
+        eventID: "S3W2",
         time: "10:30–12:30",
         location: "H 0105",
         teaser: `<p>Der Berliner Mietendeckel war ein Hoffnungsschimmer. Er wurde bundesweit und international beachtet und zum Vorbild genommen. Aber er war auch Zielscheibe einer wahnwitzigen Gegenkampagne, an deren Spitze sich Union und FDP gesetzt haben, um ihn schlie&szlig;lich vor das Verfassungsgericht zu bringen. Am Ende ist der Berliner Vorsto&szlig; am Zust&auml;ndigkeits-Klein-Klein gescheitert. Doch damit ist die Mietenfrage nicht erledigt. Denn es liegt ja auf der Hand: gegen die Mietpreisexplosion, die vor allem die Gewinne von Eigent&uuml;mer*innen mehrt, hilft vor allem kurzfristig nur eins: Rent control, die gesetzliche Begrenzung der Mietpreise. Die Kampagne Mietenstopp, getragen von Initiativen, Mietervereinen, Gewerkschaften und Sozialverb&auml;nden, mobilisiert daf&uuml;r ebenso wie unz&auml;hlige Initiativen in den St&auml;dten, die auch 2022 wieder einen bundes- und europaweiten Housing Action Day organisiert haben. Doch nach fast 15 Jahren Kampf gegen steigende Mieten: Wo stehen wir? Und wie kommen wir weiter?</p>
@@ -112,7 +125,8 @@ export default [
         <p><em>Eine Veranstaltung der Rosa-Luxemburg-Stiftung</em></p>`,
       },
       {
-        title: "Wie gewinnt/ verliert man eigentlich ein Bürger*innenbegehren?",
+        title: "Wie gewinnt/verliert man eigentlich ein Bürger*innenbegehren?",
+        eventID: "S2W12",
         time: "10:30–12:30",
         location: "H 0106",
         teaser: `<p>2019 zeitgleich zur Europa-Wahl stimmten mehr als 75% der w&auml;hlenden Osnabr&uuml;cker*innen f&uuml;r eine kommunale Wohnungsgesellschaft &ndash; heute wird diese auch durch die Stadt umgesetzt. Dass sich 75% der w&auml;hlenden Osnabr&uuml;cker*innen so entschieden haben, war nicht allein dem gesamtgesellschaftlichen Stimmung geschuldet, sondern war das Ergebnis eines B&uuml;ndnisses f&uuml;r bezahlbaren Wohnraum, dem sich &uuml;ber 40 zivilgesellschaftliche Organisationen, Gruppen, Verb&auml;nde sowie Privatpersonen anschlossen.</p>
@@ -122,7 +136,8 @@ export default [
         <p>Veranstalter*innen:Pauline von &raquo;Libert&auml;re Kommunist*innen Osnabr&uuml;ck (Likos)&laquo; und Felix Filou vom &raquo;Mietentscheid Frankfurt&laquo;</p>`,
       },
       {
-        title: "Was kostet die Enteignung von  Vonovia und Co?",
+        title: "Was kostet die Enteignung von Vonovia und Co?",
+        eventID: "S1W6",
         time: "14:00–16:00",
         location: "H 0105",
         teaser: `<p>Wenn Konzerne nach Art. 15 enteignet werden, m&uuml;ssen diese entsch&auml;digt werden. Soweit so klar, allerdings beginnt ab dann die Auseinandersetzung. Wie hoch ist diese Entsch&auml;digung? Wie wird diese berechnet? Was hat das mit dem Art. 14 GG zu tun? Muss der Senat daf&uuml;r Schulden machen oder Steuern erh&ouml;hen?&nbsp;</p>
@@ -134,6 +149,7 @@ export default [
       },
       {
         title: "Data-driven campaigning oder was Daten alles (nicht) können",
+        eventID: "S2W2",
         time: "14:00–16:00",
         location: "H 0111",
         teaser: `<p>&bdquo;Kenne Dein Potential&ldquo; gilt nicht nur allgemein als Lebensweisheit sondern ist auch f&uuml;r das Organizing unabdingbar. Wer ist unsere Zielgruppe? Wie viele Stimmen k&ouml;nnen wir in welchem Bezirk erreichen? In welchem Bezirk ist die Zustimmung am gr&ouml;&szlig;ten, in welchem am kleinsten?&nbsp;</p>
@@ -142,6 +158,7 @@ export default [
       },
       {
         title: "Es wurde schon alles gesagt - nur nicht von (allen) FLINTA",
+        eventID: "S2W3",
         time: "14:00–16:00",
         location: "H 3007",
         teaser: `<p>Was ist eigentlich eine Kernbotschaft? Muss ich auf die Frage antworten, die mir gestellt wurde - oder darf ich einfach auf eine andere antworten? Und wer hilft mir dabei? Ein Workshop f&uuml;r FLINTA rund ums Sprechen in der &Ouml;ffentlichkeit: Wie Medien- und Pressearbeit bei DWE funktioniert und warum mit Kompliz*innen alles besser ist.</p>`,
@@ -149,6 +166,7 @@ export default [
       {
         title:
           "Die PAH und der Kampf um das Recht auf Wohnen: Lehren für kollektive Aktionen (RLS)",
+        eventID: "S2W7",
         time: "14:00–16:00",
         location: "H 3006",
         teaser: `<p>Wie k&ouml;nnen wir neue Leute in Versammlungen willkommen hei&szlig;en? Wie organisieren wir eine dezentrale Bewegung? Wie f&uuml;hren wir gewaltfreie direkte Aktionen durch, wie verhandeln wir? Wie k&ouml;nnen wir Diskurse und Wahrnehmungen ver&auml;ndern und die Macht der Stra&szlig;e nutzen? Dies sind die Fragen, die alle wohnungspolitischen Initiativen beantworten m&uuml;ssen. In diesem Workshop tauschen die spanische <em>Plattform der Hypothekenbetroffenen (PAH)</em> und die Berliner Initiativen <em>B&uuml;ndnis Zwangsr&auml;umung Verhindern</em>, <em>H&auml;nde weg vom Wedding</em> und <em>Deutsche Wohnen &amp; Co. enteignen</em> ihre Antworten und Erfahrungen aus.</p>
@@ -160,6 +178,7 @@ export default [
       {
         title:
           "An die Haustüren! - praktischer Ansprache- und Organizing-Workshop (AG Starthilfe)",
+        eventID: "S2W10",
         time: "14:00–18:30",
         location: "Vorplatz TU Hauptgebäude",
         teaser: `<p>Auf ins Handgemenge und mit Mieter*innen ins Gespr&auml;ch kommen - darum kommt man weder beim nachbarschaftlichen Organizing noch beim Unterschriften Sammeln f&uuml;r den Volksentscheid herum. Erst, wenn Aktivist*innen an die T&uuml;ren klopfen oder Nachbar*innen bei den eigenen Nachbar*innen klingeln, erf&auml;hrt man wo der Schuh dr&uuml;ckt - und nur so werden wir mehr! Genau das wollen wir an diesem Samstagnachmittag machen. Aber nicht mit grauer Theorie, sondern ganz praktisch. Gemeinsam mit dem Kiezteam Tempelhof-Sch&ouml;neberg wollen wir in Zweier- und Dreiergruppen an T&uuml;ren eines Enteignungskandidaten klingeln und dem Kiezteam die Informationen verschaffen, die sie brauchen, um sich zu wehren und Nachbar*innen finden, die sich ebenfalls wehren wollen. Wir reisen gemeinsam von der TU nach Tempelhof, dort wird es eine Einf&uuml;hrung sowie eine Nachbesprechung geben, Materialien stellen wir, steckt aber gerne einen oder zwei Kugelschreiber und nat&uuml;rlich Eure Maske ein!</p>
@@ -169,6 +188,7 @@ export default [
       {
         title:
           "Die Bodenpreisrallye stoppen - Wer profitiert von steigenden Bodenpreisen und was sind politische Gegenmittel? (RLS)",
+        eventID: "S3W3",
         time: "14:00–16:00",
         location: "H 0104",
         teaser: `<p>Noch st&auml;rker als die Mieten steigen seit Jahren und Jahrzehnten die Preise f&uuml;r den Boden, auf dem die Wohnungen stehen. St&auml;dtische Grundst&uuml;cke sind - ebenso wie landwirtschaftliche Fl&auml;chen - zu weltweit begehrten Anlage- und Spekulationsobjekten geworden, ganz besonders seit der weltweiten Finanzkrise 2008. K&auml;ufer*innen finden sich auch zu aberwitzigen Preisen, weil die ebenso verl&auml;sslich steigenden Mieten oder auch der Verkauf ein paar Jahre sp&auml;ter sichere und hohe Renditen versprechen. So arbeitet der Boden als Umverteilungsmaschine, die den Eigent&uuml;mer*innen auf Kosten der Mietenden leistungslose Gewinne verschafft. Nur wenn wir diese Maschine stoppen, sind leistbare Mieten, bezahlbarer Neubau und die R&uuml;ckgewinnung demokratischer Kontrolle &uuml;ber die Art, wie sich die St&auml;dte entwickeln, &uuml;berhaupt denkbar. Wie leistungslose Gewinne abgesch&ouml;pft und die Bodenpreisrallye gestoppt werden kann, soll in diesem Workshop diskutiert werden.</p>
@@ -178,6 +198,7 @@ export default [
       {
         title:
           "Demokratisierung des Wohnens in unterschiedlichen Eigentumsverhältnissen",
+        eventID: "S3W5",
         time: "14:00–16:00",
         location: "H 3004",
         teaser: `<p>Ziel dieses Workshops ist, die Frage der Selbstbestimmung als eine Triebkraft politischer Auseinandersetzungen zu thematisieren und Wege zu diskutieren, wie diese in den verschiedenen Wohnformen (Anstalt des &ouml;ffentlichen Rechts, Genossenschaften, andere private Rechtsformen) erk&auml;mpft und umgesetzt werden kann. Hierf&uuml;r wird es auch wichtig sein n&auml;her zu bestimmen, was eigentlich genau gefordert wird, wenn es um Selbstbestimmung und Demokratisierung geht.</p>
@@ -186,6 +207,7 @@ export default [
       },
       {
         title: "Mietenstopp – so geht’s weiter!",
+        eventID: "S4W6",
         time: "14:00–16:00",
         location: "H 0106",
         teaser: `<p>Obwohl Mietendeckel und Mietenstopp vor dem Bundesverfassunh gescheitert sind, sind die Kampagnen nicht am Ende. Wir m&ouml;chten Euch den Stand unserer Kampagne Mietenstopp vorstellen und mit Euch zusammen planen wie es mit der Mieter*innenBewegung weitergeht. Der Workshop soll vernetzen und gemeinsame Aktionen voranbringen.</p>
@@ -194,6 +216,7 @@ export default [
       {
         title:
           "Follow the money - Der deutsche Immobilienmarkt als Tummelplatz für Oligarchen, Kriminelle und Steuerhinterzieher (RLS)",
+        eventID: "S1W1",
         time: "16:30–18:30",
         location: "H 0105",
         teaser: `<p>In Reaktion auf den russischen Angriffskrieg auf die Ukraine wurden zahlreiche &ldquo;Oligarchen&rdquo; durch die EU und andere Staaten sanktioniert. Ihre Gesch&auml;ftsaktivit&auml;ten sollten unterbunden und ihre Verm&ouml;genswerte eingefroren werden. Doch insbesondere bei Immobilien verschleiern verschachtelte Firmen- und Beteiligungskonstrukte, die bis in das au&szlig;ereurop&auml;ische Ausland reichen, oft die tats&auml;chlichen wirtschaftlich Berechtigen und erm&ouml;glichen so die Umgehung von Sanktionen, aber auch ganz allgemein Steuerhinterziehung und Geldw&auml;sche. So ist der Immobilienmarkt Tummelplatz f&uuml;r organisierte Kriminalit&auml;t und dubiose Kapitalfl&uuml;sse aus autorit&auml;ren Regimen - nicht nur aus Russland. "Wem geh&ouml;rt die Stadt?" ist daher nicht nur eine Losung, hinter der sich Aktivist*innen weltweit versammeln, um ihren Unmut &uuml;ber st&auml;dtische Ungleichheit und Ausgrenzung auszudr&uuml;cken. Die Frage verweist auch auf ein weites Dunkelfeld: Wir wissen an vielen Stellen nicht, wem die Stadt geh&ouml;rt, wer in ihr (und mit welchem Geld) baut, kauft und vermietet. Die Veranstaltung res&uuml;miert die bisherige Sanktionspolitik, beleuchtet Instrumente der Verschleierung, Geldw&auml;sche und Steuerhinterziehung und fragt nach Handlungsm&ouml;glichkeiten: Was k&ouml;nnen Bund und L&auml;nder tun, um gegen Finanzkriminalit&auml;t auf dem Immobilienmarkt vorzugehen?</p>
@@ -204,6 +227,7 @@ export default [
       {
         title:
           '"... aber was macht ihr eigentlich?" ein Stimmungstafel-Workshop mit AG Right to the City for All',
+        eventID: "S2W4",
         time: "16:30–18:30",
         location: "H 3007",
         teaser: `<p>Was kann passieren, wenn junge, queere, nicht-in-Deutschland-geborene Mieter*innen sich zusammentun, um f&uuml;r Wohnrecht in Berlin zu k&auml;mpfen? Die AG Right to the City For all richtet sich an nichtdeutsche Mieter*innen, die sich mit Englisch als Arbeitssprache wohlf&uuml;hlen und in diesen Workshop nutzen wir die Erfahrungen, die wir seit Dezember 2020 gesammelt haben, um m&ouml;glichen n&auml;chsten Schritten im Kampf um die Umsetzung des Volkentscheids vorzustellen.</p>
@@ -217,6 +241,7 @@ export default [
       },
       {
         title: "Vom Kapitalismus klauen: Methoden des politisches Campaignings",
+        eventID: "S2W6",
         time: "16:30–18:30",
         location: "H 3004",
         teaser: `<p>Marketing ist dazu da, Bed&uuml;rfnisse zu erzeugen und daraus Kapital zu schlagen. In der politischen Linken ist dieses Konzept deshalb nicht besonders beliebt. Dennoch ist unsere Wahrnehmung und unser Verhalten durch die tagt&auml;gliche Werbung beeinflusst. </p>
@@ -227,6 +252,7 @@ export default [
       {
         title:
           "Mieter*innengewerkschaften: Gegen-Macht organisieren (RLS), Tenants‘ unions: Organizing counter-power (RLS)",
+        eventID: "S2W11",
         time: "16:30–18:30",
         location: "H 3006",
         teaser: `<p>Gewerkschaftliche Organisierung ist auch jenseits der Sph&auml;re der Produktion anzutreffen, und wirkt auch hier als kollektiver Widerstand gegen die Ausbeutung und Verwertung durch das Kapital. Zum Beispiel in Gro&szlig;britannien, Spanien oder Schweden, wo sich Mieter*innengewerkschaften gegen die Vermieterwirtschaft und f&uuml;r die Rechte aller Mieter*innen einsetzen. Seit 2019 existieren auch in Deutschland solche Initiativen in dem Mosaik der Mieteninitiativen, Verb&auml;nden und Mieter*innenvereinen. Sie wollen eine kollektive St&auml;rkung aller Mieter*innen in ihren Rechten und K&auml;mpfen erwirken, und die Arbeit &uuml;ber die klassische Rechtsberatung der Mieter*innenvereine hinaus gestalten.</p>
@@ -242,6 +268,7 @@ export default [
       {
         title:
           "Wohnen jenseits des Markts – Herausforderungen für ein gemeinnütziges Wohnen",
+        eventID: "S3W6",
         time: "16:30–18:30",
         location: "H 0110",
         teaser: `<p>Die derzeitige wohnungspolitische Notlage ist Ausweis des Marktversagens bei der Bereitstellung von g&uuml;nstigem Wohnraum. Neue Regeln und Instrumente sind n&ouml;tig, um Wohnen wieder leistbar f&uuml;r alle zu machen. Gleichzeitig gilt es, H&auml;user klimaneutral umzubauen und die demokratische Beteiligung der Bewohnerschaft bei der Verwaltung und Bewirtschaftung einzuf&uuml;hren. Wie k&ouml;nnte eine Transformation der Wohnraumversorgung gelingen, welche Ziele sollen formuliert, welche Schwierigkeiten m&uuml;ssen gel&ouml;st werden?</p>
@@ -255,17 +282,7 @@ export default [
         title:
           "Was macht die stadtpolitische Bewegung in Berlin 2022? Ein Workshop zum Verbindungen finden und gemeinsamen Planen",
         time: "16:30–18:30",
-        location: "H 0106",
-        teaser: `<p>Die stadt- und mietenpolitische Bewegung Berlins ist in den letzten zehn Jahren enorm gewachsen. Erfolgreich ist das Thema Mieten nun auf der Tagesordnung der Stadtgesellschaft und Parlamente. Zwangsr&auml;umungen wurden verhindert, gemeinsam waren wir mit riesigen Demonstrationen auf der Stra&szlig;e und der Enteignen-Volksentscheid hat viele Menschen in der Stadt mobilisiert. Gleichzeitig wurden alle parlamentarischen Versuche die Mieten zu regulieren, wie der Mietendeckel und das Vorkaufsrecht, von Gerichten einkassiert und der Volksentscheid droht auf die lange Bank geschoben zu werden.</p>
-        <p>Gemeinsam wollen wir mit Aktiven aus der stadt- und mietenpolitischen Bewegung diskutieren, wie wir gemeinsam weitermachen wollen. Wir wollen uns st&auml;rker vernetzen und die Diskussionen, die wir in unseren Gruppen, Initiativen, B&uuml;ndnissen und Kampagnen f&uuml;hren, zusammentragen.</p>
-        <p>Wie k&ouml;nnen wir gemeinsam wieder in Bewegung kommen und welche Aktionen m&ouml;chten wir gemeinsam planen? Es gibt viel zu tun, also kommt zahlreich vorbei.</p>
-        <p>Eingeladen sind alle Initiativen, Gruppen und stadtpolitisch Aktive. Wer reinschnuppern mag und sich in seinem Haus oder Kiez organisieren will, kann auch gerne dazusto&szlig;en. Wir freuen uns auf das gemeinsame Pl&auml;neschmieden.&nbsp;</p>
-        <p>Organisiert vom <strong>B&uuml;ndnis gegen Verdr&auml;ngung und Mietenwahnsinn</strong> Berlin und von <strong>Deutsche Wohnen &amp; Co. enteignen</strong></p>`,
-      },
-      {
-        title:
-          "Was macht die stadtpolitische Bewegung in Berlin 2022? Ein Workshop zum Verbindungen finden und gemeinsamen Planen",
-        time: "16:30–18:30",
+        eventID: "S3W7",
         location: "H 0106",
         teaser: `<p>Die stadt- und mietenpolitische Bewegung Berlins ist in den letzten zehn Jahren enorm gewachsen. Erfolgreich ist das Thema Mieten nun auf der Tagesordnung der Stadtgesellschaft und Parlamente. Zwangsr&auml;umungen wurden verhindert, gemeinsam waren wir mit riesigen Demonstrationen auf der Stra&szlig;e und der Enteignen-Volksentscheid hat viele Menschen in der Stadt mobilisiert. Gleichzeitig wurden alle parlamentarischen Versuche die Mieten zu regulieren, wie der Mietendeckel und das Vorkaufsrecht, von Gerichten einkassiert und der Volksentscheid droht auf die lange Bank geschoben zu werden.</p>
         <p>Gemeinsam wollen wir mit Aktiven aus der stadt- und mietenpolitischen Bewegung diskutieren, wie wir gemeinsam weitermachen wollen. Wir wollen uns st&auml;rker vernetzen und die Diskussionen, die wir in unseren Gruppen, Initiativen, B&uuml;ndnissen und Kampagnen f&uuml;hren, zusammentragen.</p>
@@ -276,6 +293,7 @@ export default [
       {
         title:
           "Demonstrieren, deckeln, enteignen – den Wohnungsmarkt revolutionieren!?",
+        eventID: "P3",
         time: "19:00–21:00",
         location: "H 0105 (Audimax)",
         teaser: `<p>Ziemlich genau vier Jahre ist es her, dass sich die Kampagne <em>Deutsche Wohnen &amp; Co. enteignen</em> der &Ouml;ffentlichkeit vorstellte. Gewachsen aus der Berliner Mietenbewegung, mit einer Basis im organisierten Protest der Deutsche-Wohnen-Mieter*innen und aufbauend auf fr&uuml;heren Kampagnen und Volksentscheiden ist die Initiative angetreten, an den Grundfesten der Wohnungskrise anzusetzen: den Eigentumsverh&auml;ltnissen. Seitdem ist viel passiert: eine Bilderbuchkampagne mit lila Westen und internationaler Ausstrahlung, rekordverd&auml;chtige Unterschriftensammlungen, ein Mietendeckel als zwischenzeitlicher Kollateralerfolg, ein gewonnener Volksentscheid mit mehr als einer Million Stimmen f&uuml;r die Vergesellschaftung der gro&szlig;en Wohnungskonzerne. Und doch ist die Revolution auf dem Wohnungsmarkt bisher ausgeblieben. Wo steht die Kampagne jetzt? Was kann eine &ldquo;Expert*innen-Kommission&rdquo; zur Umsetzung beitragen? Welche politischen Spielr&auml;ume bieten sich &uuml;berhaupt? Kurz, kommen wir realpolitisch weiter oder m&uuml;ssen die Mieter*innen weiter alles selber machen?</p>
@@ -288,7 +306,8 @@ export default [
     day: "Sonntag, 29.5.2022",
     items: [
       {
-        title: "Enteignen für eine (klima)gerechte Stadt für alle (RLS)",
+        title: "Enteignen für eine (klima-)gerechte Stadt für alle (RLS)",
+        eventID: "S1W4",
         time: "10:00–12:00",
         location: "H 0104",
         teaser: `<p>Das Gesch&auml;ftsmodell der gro&szlig;en Wohnungsunternehmen lautet: Profitmaximierung auf Kosten der Mieter*innen. Mietenbewegungen und &ndash;vereine kritisieren seit Langem die Luxussanierungen im Altbau als zentrales Instrument der Verdr&auml;ngung von Bestandsmieter*innen ohne gro&szlig;es Einkommen. Und wenn die Kosten vollends auf die Mieter*innen umgelagert werden, tragen auch energetische Sanierungen zur Mietpreisspirale und Verdr&auml;ngung bei. Und dennoch wird die Dringlichkeit zur Emissionsreduktion in allen Sektoren, einer gerechten Klimapolitik und Klimaanpassungen immer deutlicher.</p>
@@ -299,6 +318,7 @@ export default [
       },
       {
         title: "Enteignung in die Nachrichten bringen",
+        eventID: "S2W5",
         time: "10:00–12:00",
         location: "H 0111",
         teaser: `<p>Wie geht aktivistische Pressearbeit &ndash; und wof&uuml;r ist sie wichtig? Dieser Workshop soll empowern, unsere Forderungen und unsere Kritik an den Verh&auml;ltnissen in die Nachrichten zu bringen. Wir machen einen Schnelldurchlauf und verschaffen uns einen ersten &Uuml;berblick, der zur sp&auml;teren Vertiefung einl&auml;dt. Folgende Aspekte werden behandelt:</p>
@@ -317,6 +337,7 @@ export default [
         title:
           "How can non-Germans get involved in the fight against gentrification?",
         time: "10:00–12:00",
+        eventID: "S2W4",
         location: "H 3007",
         teaser: `<p>Are you a &ldquo;new Berliner&rdquo;? Has your knowledge of the German language and culture stopped you getting involved in the Deutsche Wohnen &amp; Co Enteignen campaign? The Right2TheCity working group was created just for you. Right2TheCity is aimed at non-German tenants who feel more comfortable with English as a working language. In this workshop we will use the experiences that we have gathered since December 2020 to introduce the possible next steps towards carrying through the Volksentscheid.</p>
         <p>The workshop will be in 4 parts</p>
@@ -330,6 +351,7 @@ export default [
       {
         title:
           "Taktiken für den langen Atem. Vom Recht auf Wohnen zum Munizipalismus (RLS)",
+        eventID: "S3W4",
         time: "10:00–12:00",
         location: "H 3006",
         teaser: `<p>Nach dem gewonnenen Volksentscheid erwartet Deutsche Wohnen &amp; Co. enteignen vom Berliner Senat, die von den Berliner B&uuml;rger*innen getroffene Entscheidung auch umzusetzen. Die engen Verbindungen insbesondere der Berliner SPD zur den gro&szlig;en privaten Vermieter*innen und der Immobilienlobby zwingen die Initiative gleichzeitig dazu, weiter politischen Druck f&uuml;r bezahlbares Wohnen f&uuml;r alle auszu&uuml;ben, bis die Vergesellschaftung umgesetzt ist. Die Frage ist: was ist zu tun in dieser neuen Phase?</p>
@@ -344,6 +366,7 @@ export default [
       {
         title:
           "Das lila Buch - feministisch. praktisch. gut. Geschichten aus der Kampagne",
+        eventID: "S2W13",
         time: "10:00–12:00",
         location: "H 0106",
         teaser: `<p>In dem lila Buch wollen wir Geschichten von Menschen zusammentragen, die bei Deutsche Wohnen &amp; Co. enteignen aktiv sind. Und wir schreiben zu Fragen, die uns umtreiben: Was macht Enteignung, Kampagnenarbeit und Stadtpolitik feministisch? Wenn du Lust hast uns kennenzulernen, eine Geschichte zu erz&auml;hlen hast oder am Buch mitarbeiten willst, komm vorbei! </p>`,
@@ -351,6 +374,7 @@ export default [
       {
         title:
           "Abschlusspodium: Wie weiter mit der Mietenbewegung – in Berlin und bundesweit?",
+        eventID: "P4",
         time: "12:30–14:00",
         location: "Raum H 0105 ( Audimax)",
         teaser: `<p>Am Ende der Konferenz wollen wir Bilanz ziehen &ndash; und einen Ausblick wagen. Mit welchen Eindr&uuml;cken gehen wir nach drei Tagen Konferenz nach Hause? Was hat uns begeistert, was haben wir gelernt, wo bestehen Konflikte und weiterer Diskussionsbedarf? Und vor allem: Wie geht es jetzt weiter mit der Mietenbewegung, mit Enteignen, Vergesellschaften und dem Kampf f&uuml;r Wohnen f&uuml;r Alle &ndash; in Berlin und bundesweit?</p>
