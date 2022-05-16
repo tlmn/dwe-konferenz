@@ -197,6 +197,16 @@ export default [
       },
       {
         title:
+          "Bundesweit gegen Vonovia & Co. – Strategien und Ansätze (Teil 1)",
+        eventID: "S4W1",
+        time: "14:00–16:00",
+        location: "H 0107",
+        teaser: `<p>Sp&auml;testens mit der &Uuml;bernahme der Deutschen Wohnen hat sich Vonovia endg&uuml;ltig die Stellung als dominantes Privatunternehmen auf dem deutschen Wohnungsmarkt gesichert. Dem Konzern geh&ouml;ren ca. 500.000 Wohnungen an rund 400 Standorten. Damit hat das Unternehmen nicht nur massiven Einfluss auf den Wohnungsmarkt in vielen St&auml;dten und Regionen, sondern auch auf die staatliche Wohnungspolitik. H&ouml;chste Zeit also, Vonovia und all den anderen gro&szlig;en Wohnungskonzernen und Investoren organisierten Widerstand entgegenzusetzen und die Enteignungsforderung auch &uuml;ber Berlin hinaus popul&auml;r zu machen. In der dreiteiligen Workshop-Phase nehmen wir uns Zeit, um gemeinsam &uuml;ber bundesweite Strategien und Ideen gegen gro&szlig;e Wohnungskonzerne und Investoren zu beraten sowie konkrete Schritte zu planen. Die Workshops bauen aufeinander auf, sind aber auch einzeln besuchbar.</p>
+        <p>In Teil 1 werden wir bestehende Ans&auml;tze und Akteure kennenlernen und strategisch diskutieren, wie wir bundesweit eine starke Bewegung gegen Vonovia & Co. aufbauen k&ouml;nnen.</p>
+        <p>u.a. mit Aktiven von #NoVonovia, dem VoNO!via-MieterInnenB&uuml;ndnis, Hamburg enteignet und der Interventionistischen Linken (IL)</p>`,
+      },
+      {
+        title:
           "Demokratisierung des Wohnens in unterschiedlichen Eigentumsverhältnissen",
         eventID: "S3W5",
         time: "14:00–16:00",
@@ -226,6 +236,16 @@ export default [
       },
       {
         title:
+          "Bundesweit gegen Vonovia & Co. – Strategien und Ansätze (Teil 2)",
+        eventID: "S4W2",
+        time: "16:30–18:30",
+        location: "H 0107",
+        teaser: `<p>Sp&auml;testens mit der &Uuml;bernahme der Deutschen Wohnen hat sich Vonovia endg&uuml;ltig die Stellung als dominantes Privatunternehmen auf dem deutschen Wohnungsmarkt gesichert. Dem Konzern geh&ouml;ren ca. 500.000 Wohnungen an rund 400 Standorten. Damit hat das Unternehmen nicht nur massiven Einfluss auf den Wohnungsmarkt in vielen St&auml;dten und Regionen, sondern auch auf die staatliche Wohnungspolitik. H&ouml;chste Zeit also, Vonovia und all den anderen gro&szlig;en Wohnungskonzernen und Investoren organisierten Widerstand entgegenzusetzen und die Enteignungsforderung auch &uuml;ber Berlin hinaus popul&auml;r zu machen. In der dreiteiligen Workshop-Phase nehmen wir uns Zeit, um gemeinsam &uuml;ber bundesweite Strategien und Ideen gegen gro&szlig;e Wohnungskonzerne und Investoren zu beraten sowie konkrete Schritte zu planen. Die Workshops bauen aufeinander auf, sind aber auch einzeln besuchbar.</p>
+        <p>In Teil 2 werden wir m&ouml;gliche bundesweite Initiativen gegen Vonovia & Co. in Arbeitsgruppen vertieft diskutieren und gemeinsam &uuml;berlegen, was davon sinnvoll und m&ouml;glich ist: bundesweite Enteignungsforderungen, Organizing-Kampagnen, K&auml;mpfe gegen falsche Nebenkostenabrechnungen, aktionistischer Protest gegen die Hauptversammlung von Vonovia in Bochum – und all das, was ihr sonst an Ideen mitbringt.</p>
+        <p>u.a. mit Aktiven von #NoVonovia, dem VoNO!via-MieterInnenB&uuml;ndnis, Hamburg enteignet und der Interventionistischen Linken (IL)</p>`,
+      },
+      {
+        title:
           '"... aber was macht ihr eigentlich?" ein Stimmungstafel-Workshop mit AG Right to the City for All',
         eventID: "S2W4",
         time: "16:30–18:30",
@@ -248,6 +268,18 @@ export default [
         <p>Politische &Ouml;ffentlichkeitsarbeit funktioniert mit &auml;hnlichen Methoden wie das Marketing, will aber etwas v&ouml;llig anderes.&nbsp;</p>
         <p>Im Workshop analysieren wir gemeinsam (kapitalistische) Werbung und finden heraus, was wir daraus f&uuml;r die politische Kommunikation lernen k&ouml;nnen: Warum ist eine Zielgruppenanalyse wichtig? Wie funktioniert gutes Storytelling? Und: Wie l&auml;sst sich durch das richtige &bdquo;Momentum&ldquo; eine gute Kampagne entwickeln?&nbsp;</p>
         <p>Valentin und Filou sind Medienheinis f&uuml;r politische Kommunikation aus Frankfurt &amp; Offenbach und unter anderem f&uuml;r die Kampagne &ldquo;Mietenstopp&rdquo; und den Frankfurter Mietentscheid aktiv.</p>`,
+      },
+      {
+        title: "Recherche Workshop von der Mieter*innen-Initiative Stop Heimstaden",
+        eventID: "S2W9",
+        time: "16:30–18:30",
+        location: "H 0111",
+        teaser: `<p>Die Mieter*innen-Initiative Stopp Akelius Berlin hat &uuml;ber Jahre hinweg immer wieder viel &uuml;ber Akelius recherchiert und ver&ouml;ffentlicht, die Ergebnisse sind eingeflossen in stadtpolitische B&uuml;ndnisse bzw. Initiativen und in die konkrete Mieter*innen-Organisierung. Akelius hat letztlich die Rei&szlig;leine gezogen und mehrere Standorte aufgel&ouml;st und sich aus Europa weitgehend zur&uuml;ckgezogen. In einem Mega-Deal ging alles an Heimstaden woraufhin Stopp Akelius Berlin mit der Mieter*innen-Initiative Stop Heimstaden fusionierte.</p>
+        <p>Vertreter*innen des ehemaligen Recherche Teams von Stopp Akelius Berlin wollen ihre Erfahrungen weitergeben und bieten einen Workshop an zu den Themen:</p>
+        <p>1. Was kann ich wo und wie &uuml;ber meine Vermieter/Eigent&uuml;mer recherchieren?</p>
+        <p>2. Was kann ich mit den Recherche-Ergebnissen alles anfangen?</p>
+        <p>3. Wo kann ich mir ggf. Hilfe bei der Recherche bzw. der Auswertung und Ver&ouml;ffentlichung der Recherche-Ergebnissen holen?</p>
+        <p>Als Beispiele dienen Akelius und Heimstaden, aber auch andere Eigent&uuml;mer*innen. Bringt als Teilnehmende gerne eure eigenen Beispiele mit. Bitte schaut zumindest vorab nach, wer genau in eurem Mietvertrag steht und an wen genau ihr eure Miete zahlt.</p>`,
       },
       {
         title:
@@ -315,6 +347,16 @@ export default [
         <p>Es diskutieren <strong>Theresa Keilhacker</strong> (Architektenkammer Berlin), <strong>Benedikt Walters</strong> (Geograph, Uni Bonn), <strong>Jonathan Diesselhorst</strong> (IG BAU), <strong>100% Tempelhofer Feld</strong></p>
         <p>Moderation: <strong>Anastasia Blinzov</strong> (Rosa-Luxemburg-Stiftung) und <strong>Tobias Gralke</strong> (Deutsche Wohnen &amp; Co. enteignen)</p>
         <p><em>Eine Veranstaltung der Rosa-Luxemburg-Stiftung</em></p>`,
+      },
+      {
+        title:
+          "Bundesweit gegen Vonovia & Co. – Strategien und Ansätze (Teil 3)",
+        eventID: "S4W3",
+        time: "10:00–12:00",
+        location: "H 0107",
+        teaser: `<p>Sp&auml;testens mit der &Uuml;bernahme der Deutschen Wohnen hat sich Vonovia endg&uuml;ltig die Stellung als dominantes Privatunternehmen auf dem deutschen Wohnungsmarkt gesichert. Dem Konzern geh&ouml;ren ca. 500.000 Wohnungen an rund 400 Standorten. Damit hat das Unternehmen nicht nur massiven Einfluss auf den Wohnungsmarkt in vielen St&auml;dten und Regionen, sondern auch auf die staatliche Wohnungspolitik. H&ouml;chste Zeit also, Vonovia und all den anderen gro&szlig;en Wohnungskonzernen und Investoren organisierten Widerstand entgegenzusetzen und die Enteignungsforderung auch &uuml;ber Berlin hinaus popul&auml;r zu machen. In der dreiteiligen Workshop-Phase nehmen wir uns Zeit, um gemeinsam &uuml;ber bundesweite Strategien und Ideen gegen gro&szlig;e Wohnungskonzerne und Investoren zu beraten sowie konkrete Schritte zu planen. Die Workshops bauen aufeinander auf, sind aber auch einzeln besuchbar.</p>
+        <p>In Teil 3 spucken wir in die H&auml;nde und werden ganz konkret. Welche Schl&uuml;sse ziehen wir aus den Diskussionen am Samstag f&uuml;r die bundesweite Praxis? Wie k&ouml;nnen wir den Widerstand gegen Vonovia & Co. tats&auml;chlich mit Leben f&uuml;llen, was brauchen wir daf&uuml;r und wer &uuml;bernimmt welche Aufgaben? Welche Termine stehen an, welche Verabredungen f&uuml;r n&auml;chste Schritte k&ouml;nnen wir treffen – und bei welcher Gelegenheit sehen wir uns gemeinsam wieder?</p>
+        <p>u.a. mit Aktiven von #NoVonovia, dem VoNO!via-MieterInnenB&uuml;ndnis, Hamburg enteignet und der Interventionistischen Linken (IL)</p>`,
       },
       {
         title: "Enteignung in die Nachrichten bringen",
