@@ -6,7 +6,7 @@ export default [
         title: "Crashkurs: Was ist: Finanzialisierung des Wohnens? (RLS)",
         eventID: "C1",
         time: "17:30–18:30",
-        location: "H 0111",
+        location: "H 3005",
         teaser: `<p>Die massiven Privatisierungen &ouml;ffentlicher Wohnungsbest&auml;nde in den 1990er und 2000er Jahren haben der zunehmenden Vermarktlichung und anschlie&szlig;ende &bdquo;Finanzialisierung&ldquo; des Wohnens den Weg bereitet. Die Umwandlung von Wohnraum in eine Finanzanlage versch&auml;rft die Wohnungskrise in den St&auml;dten, indem sie die Wohnverh&auml;ltnisse tausender Mieter*innen der Spekulation und den Strukturen der Finanzm&auml;rkte unterwirft: Explodierende Mieten, Wohnungsnot und Verdr&auml;ngung sind einige der unkontrollierten Ausw&uuml;chse dieser Dynamik. Aber was ist das eigentlich genau, Finanzialisierung? Und wie konnte es dazu kommen?</p>
     <p>Dieser Crashkurs gibt einen kurzen &Uuml;berblick &uuml;ber Ursachen, Dynamiken und Folgen der Finanzialisierung des Wohnens und konkretisiert am Beispiel des b&ouml;rsennotierten Wohnungskonzerns Vonovia SE den Zusammenhang zwischen Spekulation, Renditemaximierung und steigenden Mieten am deutschen Wohnungsmarkt.</p>
     <p>Mit <strong>Tabea Latocha</strong> (Stadtgeographin an der Goethe-Universit&auml;t Frankfurt a.M. und aktiv bei &ldquo;Stadt f&uuml;r alle Frankfurt! Wem geh&ouml;rt die ABG?&rdquo;)</p>
@@ -37,7 +37,7 @@ export default [
         eventID: "P1",
         location: "H 0105 (Audimax)",
         teaser: `<p>mit <strong>Balakrishnan Rajagopal</strong> (UN-Sonderberichterstatter f&uuml;r das Recht auf Wohnen - per Video)</p>
-        <p>Mit anschlie&szlig;endem Gespr&auml;ch mit <strong>Andrej Holm</strong> (Stadtforscher HU Berlin), <strong>Jovana Timotijević</strong> (Ministry of Space, Belgrad); <strong>Melissa Koutouzis</strong> (Woonprotest, Amsterdam) und <strong>Joanna Kusiak</strong> (Deutsche Wohnen &amp; Co. enteignen), moderiert von <strong>Tashy Endres</strong> (AG Starthilfe von Deutsche Wohnen &amp; Co. enteignen)</p>
+        <p>Mit anschlie&szlig;endem Gespr&auml;ch mit <strong>Andrej Holm</strong> (Stadtforscher HU Berlin), <strong>Jovana Timotijević</strong> (Ministry of Space, Belgrad); <strong>Melissa Koutouzis</strong> (Woonprotest, Amsterdam) und <strong>Nina Scholz</strong> (Deutsche Wohnen &amp; Co. enteignen), moderiert von <strong>Tashy Endres</strong> (AG Starthilfe von Deutsche Wohnen &amp; Co. enteignen)</p>
         <p>Livestream</p>`,
       },
       {
